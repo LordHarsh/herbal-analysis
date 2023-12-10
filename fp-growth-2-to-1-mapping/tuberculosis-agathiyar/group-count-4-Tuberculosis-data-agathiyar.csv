@@ -1,0 +1,7 @@
+,support,itemsets
+35,0.14285714285714285,"frozenset({'saccharum officinarum', 'trikatu', 'alpinia galanga', 'triphala'})"
+38,0.14285714285714285,"frozenset({'trikatu', 'alpinia galanga', 'solanum trilobatum', 'triphala'})"
+49,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum trilobatum', 'solanum surattense', 'triphala'})"
+50,0.14285714285714285,"frozenset({'trikatu', 'alpinia galanga', 'solanum trilobatum', 'solanum surattense'})"
+51,0.14285714285714285,"frozenset({'trikatu', 'alpinia galanga', 'solanum surattense', 'triphala'})"
+52,0.14285714285714285,"frozenset({'trikatu', 'solanum trilobatum', 'solanum surattense', 'triphala'})"

@@ -1,0 +1,18 @@
+,support,itemsets
+0,0.20588235294117646,frozenset({'trikatu'})
+1,0.14705882352941177,frozenset({'calotropis gigantea'})
+2,0.11764705882352941,frozenset({'cuminum cyminum'})
+3,0.14705882352941177,frozenset({'aloe barbadensis'})
+4,0.20588235294117646,frozenset({'tinospora cordifolia'})
+5,0.17647058823529413,frozenset({'triphala'})
+6,0.14705882352941177,frozenset({'syzygium aromaticum'})
+7,0.14705882352941177,frozenset({'elettaria cardamomum'})
+8,0.11764705882352941,frozenset({'milk'})
+9,0.11764705882352941,frozenset({'myristica fragrans'})
+10,0.11764705882352941,frozenset({'glycyrrhiza glabra'})
+11,0.11764705882352941,"frozenset({'trikatu', 'tinospora cordifolia'})"
+12,0.11764705882352941,"frozenset({'tinospora cordifolia', 'triphala'})"
+13,0.11764705882352941,"frozenset({'syzygium aromaticum', 'tinospora cordifolia'})"
+14,0.14705882352941177,"frozenset({'syzygium aromaticum', 'elettaria cardamomum'})"
+15,0.11764705882352941,"frozenset({'elettaria cardamomum', 'tinospora cordifolia'})"
+16,0.11764705882352941,"frozenset({'syzygium aromaticum', 'elettaria cardamomum', 'tinospora cordifolia'})"

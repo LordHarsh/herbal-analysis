@@ -1,0 +1,731 @@
+drug,author,herb_part,bot_name,disease_category,taste,potency,ultimate_taste,inherent_action
+Parangipattai Choornam ,Agathiyar ,,Smilax china ,Diabetes,sweet,Cold ,Sweet,"udarthetri,megapinivilaki,kamamperuki,thuyimaiyaki"
+Parangipattai Choornam ,Agathiyar ,Stem juice ,Saccharum officinarum,Diabetes,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Aavarai kiyalam ,Agathiyar,leaf,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Aavarai kiyalam ,Agathiyar,,Kalamadham ,Diabetes,null,null,null,null
+Aavarai kiyalam ,Agathiyar,Stem bark ,Cassis fistula,Diabetes,"Astringent , mildBitter ",Hot,Spicy ,null
+Aavarai kiyalam ,Agathiyar,Seed,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Sukku kudineer ,Agathiyar ,Jaggery ,Borassus flabellifer,Diabetes,"Astringent, sweet",Cold ,Sweet,"thuvarpi,aanmaiperuki"
+Sukku kudineer ,Agathiyar ,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Sukku kudineer ,Agathiyar ,Root ,Gmelina asiatica,Diabetes,"mildBitter, Astringent ",Cold ,Sweet,"udarthetri,ullalaratri,manamutti"
+Sirukurinjan Kiyalam ,Agathiyar ,Root ,Gymnema sylvestre,Diabetes,Bitter,Hot,Spicy ,"Thuvarpi,Pasitheethundi,Uramaki,Kulirchiyundaki"
+Sirukurinjan Kiyalam ,Agathiyar ,Milk ,Cocus nucifera,Diabetes,null,null,null,null
+Parangipattai kiyalam,Agathiyar ,bark ,Smilax china ,Diabetes,sweet,Cold ,Sweet,"udarthetri,megapinivilaki,kamamperuki,thuyimaiyaki"
+Parangipattai kiyalam,Agathiyar ,,milk ,Diabetes,null,null,null,null
+Inji kashayam ,Agathiyar ,Rhizome ,Zingiber officinale,Tuberculosis ,Karpu,Hot,Karpu,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Inji kashayam ,Agathiyar ,flower,Enicostemma axillare,Tuberculosis ,Bitter,Hot,Spicy ,"pasithithundi,uramaki,udarthetri,malamilaki,veppagatri"
+Inji kashayam ,Agathiyar ,seed ,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Legyam ,Agathiyar ,Root ,Achyranthes aspera,Diabetes,"Bitter, Astringent, Pungent",Hot,Spicy ,"thuvarpi,siruneerperuki,udarthetri,muraiveppakatri"
+Legyam ,Agathiyar ,root ,Tribulus terrestris,Diabetes,"Astringent, sweet",Cold ,Sweet,"kulirchiundaki,siruneerperuki,ullalaratri,uramaki,anmaiperuki,thuvarpi"
+Legyam ,Agathiyar ,Root ,Eclipta prostrata,Diabetes,Bitter,Hot,Spicy ,"Pithannerperuki,Uramaki,Udalthetri,Vanthiyundaki,Neermalampoki,Veekamuruki,Eralthetri"
+Legyam ,Agathiyar ,Root ,Crataeva magna,Diabetes,Bitter,Hot,Spicy ,"pasithithundi,veppagatri,uramaki"
+Legyam ,Agathiyar ,Root ,Toddalia asiatica,Diabetes,Astringent ,Cold ,Spicy ,"veppamundaki,uramaki,agatuvaiagatri,viyarvaiperuki,muraiveppagatri"
+Legyam ,Agathiyar ,Root ,Indigofera aspalathoides,Diabetes,Bitter,Hot,Spicy ,"Vepammundaki,Ulalalatri"
+Legyam ,Agathiyar ,Root ,Tacca pinnatifida,Diabetes,Karakarapu,Hot,Spicy ,"Pasitheethundi,Thadipundaki"
+Legyam ,Agathiyar ,Root ,Hygrophila auriculata,Diabetes,"sweet, mildBitter ",Cold ,Sweet,null
+Legyam ,Agathiyar ,Root ,Aegle marmelos,Diabetes,"Astringent, Bitter ",Cold ,Spicy ,"viyarvaiperuki,kamamperuki,veppagatri"
+Legyam ,Agathiyar ,Root ,Abutilon indicum,Diabetes,sweet,Cold ,Sweet,"ullalaratri,uramaki,malamilaki,siruneerperuki,thathuveppagatri"
+Legyam ,Agathiyar ,Root ,Enicostemma axillare,Diabetes,Bitter,Hot,Spicy ,"pasithithundi,uramaki,udarthetri,malamilaki,veppagatri"
+Legyam ,Agathiyar ,Root ,Nymphaea alba ,Diabetes,Sweet,Cold ,Sweet,"Pithamadaki,KulirchiyundaKI"
+Legyam ,Agathiyar ,Root ,Nilaimantham ,Diabetes,null,null,null,null
+Legyam ,Agathiyar ,Root ,Evolvulus alsinoides,Diabetes,"Bitter, mildpungent",Hot,Spicy ,"viyarvaiperuki,uramaki,udarthetri,veppagatri,pulukoli,thabhamagatri,kolaiagatri"
+Legyam ,Agathiyar ,yanai nerunjil root ,Tribulus terrestris,Diabetes,"Astringent, sweet",Cold ,Sweet,"kulirchiundaki,siruneerperuki,ullalaratri,uramaki,anmaiperuki,thuvarpi"
+Legyam ,Agathiyar ,Root ,Alternanthera sessilis,Diabetes,sweet,Cold ,Sweet,"udarthetri,kulirchiundaki"
+Legyam ,Agathiyar ,Root ,Mimosa paniculata,Diabetes,mild Pungent,Hot,Spicy ,"Seripundaki,Vepagatri"
+Legyam ,Agathiyar ,Root ,Indigofera tinctoria,Diabetes,Bitter,Hot,Spicy ,"Nutpulukolli,muraivepagatri,vepamundaki"
+Legyam ,Agathiyar ,Root ,Cardiospermum halicacabum,Diabetes,null,null,null,"siruneerperuki,malamilaki,pasithithundi,thadipuundaki,vathamadaki,udaluramaki"
+Legyam ,Agathiyar ,Root ,Pongamia pinnata,Diabetes,"Bitter, Astringent ",Hot,Spicy ,"thuvarpi,udalthetri,thukunipuluvagatri"
+Legyam ,Agathiyar ,Root ,Datura metel,Diabetes,Bitter,Hot,Spicy ,"Vanthiyundaki,Esivagatri,Thuyaradaki,Moorchaiyundaki"
+Legyam ,Agathiyar ,Root ,Strychnos nux - vomica,Diabetes,Bitter,Hot,Spicy ,"Alugalatri,Agatuvaiyagatri,Neermalampoki,Uramaki,Vepammundaki,Siruneerperuki"
+Legyam ,Agathiyar ,Root ,Aristolochia bracteolata,Diabetes,Bitter (kumatal),Hot,Spicy ,"Pulukoli,Soothagamundaki,Vepammundaki,Uramaki,Neermalampoki,Udalthetri,Muraivepagatri"
+Legyam ,Agathiyar ,Root ,Vetiveria zizanioides ,Diabetes,Sweet,Hot,Sweet ,"Uramaki,Vepammundaki,Esivagatri,Viyarvaiperuki,Siruneerperuki,Rudhuundaki,Vepagatri"
+Legyam ,Agathiyar ,Root ,Cocculus hirsutus,Diabetes,"Astringent , Bitter",Hot,Spicy ,"Udalthetri,Yeruelaki,Ulalalatri,kulirchiyundaki"
+Legyam ,Agathiyar ,Pattai ,Ficus benghalensis,Diabetes,Astringent,Cold ,Sweet,"Thovarpi,Uramaki,Kamaperuki"
+Legyam ,Agathiyar ,Tuber,Amorphophallus paeoniifolius,Diabetes,Pungent,Hot,Spicy ,"Vepammundaki,Thuvarpi"
+Legyam ,Agathiyar ,Pattai ,Terminalia arjuna,Diabetes,Astringent ,Cold ,Spicy ,null
+Legyam ,Agathiyar ,Pattai ,Thespesia populnea ,Diabetes,"Bitter, Astringent",Hot,Spicy ,"pulukolli,thuyimaiaaki"
+Legyam ,Agathiyar ,Pattai ,Canthium coromandelicum ,Diabetes,null,null,null,null
+Legyam ,Agathiyar ,Ilai ,Antiaris toxicaria,Diabetes,null,null,null,null
+Legyam ,Agathiyar ,Tuber,Amorphophallus paeoniifolius,Diabetes,Pungent,Hot,Spicy ,"Vepammundaki,Thuvarpi"
+Legyam ,Agathiyar ,Jaggaery ,Saccharum officinarum,Diabetes,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Legyam ,Agathiyar ,fruit,Vitis vinifera ,Diabetes,Sweet,Cold ,Sweet ,tuvarpi
+Legyam ,Agathiyar ,seed,Terminalia catappa,Diabetes,null,null,null,null
+Shaya legyam ,Agathiyar,,Justicia beddomei,Tuberculosis ,Bitter,Hot,Spicy ,"Esivagatri,Kollaiyagatri,Nutpulukolli,Siruneerperuki"
+Shaya legyam ,Agathiyar,,Mimosa rubicaulis,Tuberculosis ,Pungent,Hot,Spicy ,"Kollaiyagatri,Vepamundaki"
+Shaya legyam ,Agathiyar,,Solanum trilobatum,Tuberculosis ,"mildBitter, Pungent",Hot,Spicy ,"veppamundaki,kolaiagatri,uramaki"
+Shaya legyam ,Agathiyar,,Erythrina variegata,Tuberculosis ,"Bitter , Pungent ",Hot,Spicy ,"Pithamagatri,Kollaiyagatri,Vepgatri,Pulukolli,Siruneerperuki,Malamilaki,Rudhundaki,Palperuki"
+Shaya legyam ,Agathiyar,,Jasminum malabaricum,Tuberculosis ,Bitter,hot,pungent ,tuvarpi
+Shaya legyam ,Agathiyar,,Ocimum sanctum,Tuberculosis ,pungent ,Hot,Spicy ,"veppamundaki,kolaiagatri,viyarvaiperuki"
+Shaya legyam ,Agathiyar,,Solanum surattense,Tuberculosis ,Pungent ,Hot,Spicy ,"Kollaiyagatri,Siruneerperuki,Agatuvaiyagatri,perungalichalundaki"
+Shaya legyam ,Agathiyar, jaggery ,Borassus flabellifer,Tuberculosis ,"Astringent, sweet",Cold ,Sweet,"thuvarpi,aanmaiperuki"
+Shaya legyam ,Agathiyar,,Alpinia galanga,Tuberculosis ,Pungent,Hot,Spicy ,"Kollaiyakatri,Vepagatri,Pasitheethundi"
+Shaya legyam ,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Shaya legyam ,Agathiyar,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Shaya legyam ,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Shaya legyam ,Agathiyar,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Shaya legyam ,Agathiyar,,Phyllanthus emblica,Tuberculosis ,"Sour, Astringent, sweet",Cold ,Sweet,null
+Shaya legyam ,Agathiyar,,Terminalia bellirica ,Tuberculosis ,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Shaya legyam ,Agathiyar,,Saccharum officinarum,Tuberculosis ,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Shaya legyam ,Agathiyar,,Acorus calamus,Tuberculosis ,Pungent,Hot,Spicy ,"veppamundaki,pasithithundi,muraiveppagatri,agatuvaiagatri,kumattalelupi,vanthiundaki,thotrupuluvagatri,nutpulukkolli"
+Shaya legyam ,Agathiyar,,Oryza sativa,Tuberculosis ,sweet,Cold ,Sweet,null
+Vengala sendooram ,Agathiyar,Fruit ,Citrus limon,Diabetes,Sour,Hot,Spicy ,Kulirchiyundaki
+Karuvanga sendooram ,Agathiyar,,Hibiscus rosa sinensis ,Diabetes,sweet,Cold ,Sweet,"Malamilaki,Anmaiperuki,Rudhuundaki,Varatchiyagatri,Ullalatri,Kulirchiyundaki"
+Karuvanga sendooram ,Agathiyar,,Piper betle,Diabetes,"viruvirupu, Pungent ",Hot,Spicy ,"veppamundaki,agatuvaiagatri,thuvarpi,kamamperuki,alukalagatri,veppagatri,pasithithundi,parperuki,umilneerperuki"
+Karuvanga sendooram ,Agathiyar,,Terminalia arjuna,Diabetes,Astringent ,Cold ,Spicy ,null
+Karuvanga sendooram ,Agathiyar,,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Kaandha sendooram ,Agathiyar,stem ,Aloe barbadensis,Diabetes,null,null,null,null
+Kaandha sendooram ,Agathiyar,samoolam ,Eclipta prostrata,Diabetes,Bitter,Hot,Spicy ,"Pithannerperuki,Uramaki,Udalthetri,Vanthiyundaki,Neermalampoki,Veekamuruki,Eralthetri"
+Naaval nei ,Agathiyar,Pattai ,Syzygium cumini,Diab/ TB ,Astringent ,Cold ,Spicy ,Pothu-thuvarpi
+Naaval nei ,Agathiyar,samoolam ,Oxalis corniculata,Diab/ TB ,Sour,Cold ,Sweet,"Pasitheethundi,Kulirchiyundaki,Thuvarpi"
+Naaval nei ,Agathiyar,,Thayir (curd),Diab/ TB ,null,null,null,null
+Naaval nei ,Agathiyar,,Nei ,Diab/ TB ,null,null,null,null
+Naaval nei ,Agathiyar,,Saccharum officinarum,Diab/ TB ,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Naaval nei ,Agathiyar,flower,Aegle marmelos,Diab/ TB ,"Astringent, Bitter ",Cold ,Spicy ,"viyarvaiperuki,kamamperuki,veppagatri"
+Naaval nei ,Agathiyar,,Glycyrrhiza glabra,Diab/ TB ,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Naaval nei ,Agathiyar,,Elettaria cardamomum,Diab/ TB ,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+Naaval nei ,Agathiyar,,Costus speciosus,Diab/ TB ,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Naaval nei ,Agathiyar,,Syzygium aromaticum,Diab/ TB ,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Naaval nei ,Agathiyar,,Symplocos racemosa,Diab/ TB ,Astringent ,Cold ,Sweet,"siruthuvarpi,kulirchiundaki,nachheri"
+Naaval nei ,Agathiyar,,Nelumbo nucifera,Diab/ TB ,"sweet, Astringent",Cold ,Sweet,"kulirchiundaki,Thuvarpi,kolaiagatri,thathuveppagatri."
+Naaval nei ,Agathiyar,,Anacardium occidentale,Diab/ TB ,sweet ,Cold ,Sweet,"siruneerperuki,veppamundaki"
+Naaval nei ,Agathiyar,,Wrightia - tinctoria,Diab/ TB ,"Astringent, sweet, mildBitter ",Hot,Spicy ,null
+Naaval nei ,Agathiyar,Pisin ,Bombax malabaricum,Diab/ TB ,"Sweet , Astringent",Cold ,Sweet,"Kulirchiyundaki,ullalalatri"
+Naaval nei ,Agathiyar,Fruit,Phonex dactilifera,Diab/ TB ,Sweet,Hot,Spicy ,"Uramaki,Udaluramaki,Ullalalatri,Malamilaki,Siruneerperuki"
+Naaval nei ,Agathiyar,Stem,Santalum album,Diab/ TB ,"Bitter , mildAstringent ",Cold ,"Sweet, spicy","Udalthetri,Siruneerperuki,Viyarvaiperuki,Vepammundaki,Alugalagatri,Thuvarpi,Kulirchiyundaki"
+Naaval nei ,Agathiyar,flower,Mesua nagassarium,Diab/ TB ,"mildBitter , Astringent",Cold ,Spicy ,"Thuvarpi,Agatuvaiyagatri"
+Naaval nei ,Agathiyar,Flower,Eicus racemosa,Diab/ TB ,Astringent ,Cold ,Sweet,Thuvarpi
+Naaval nei ,Agathiyar,fruit unripe,Punica granatum,Diab/ TB ,null,null,null,"pothu-thuvarpi,kuruthiperukadaki"
+Naaval nei ,Agathiyar,,Curculigo orchioides,Diab/ TB ,sweet,Cold ,Sweet,"uramaki,siruneerperuki,thuvarpi,agatuvaiagatri,varatchiyagatri"
+Naaval nei ,Agathiyar,,Embelia ribes,Diab/ TB ,Bitter,Hot,Spicy ,"pulukolli,agatuvaiagatri,pasithithundi,veppamundaki"
+Naaval nei ,Agathiyar,,Aristolochia bracteolata,Diab/ TB ,Bitter (kumatal),Hot,Spicy ,"Pulukoli,Soothagamundaki,Vepammundaki,Uramaki,Neermalampoki,Udalthetri,Muraivepagatri"
+Kandathi legyam ,Agathiyar,Rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Kandathi legyam ,Agathiyar,,Syzygium aromaticum,Tuberculosis ,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Kandathi legyam ,Agathiyar,,Carum copticum,Tuberculosis ,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+Kandathi legyam ,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Kandathi legyam ,Agathiyar,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Kandathi legyam ,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Kandathi legyam ,Agathiyar,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Kandathi legyam ,Agathiyar,,Glycyrrhiza glabra,Tuberculosis ,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Kandathi legyam ,Agathiyar,,Alpinia galanga,Tuberculosis ,Pungent,Hot,Spicy ,"Kollaiyakatri,Vepagatri,Pasitheethundi"
+Kandathi legyam ,Agathiyar,,Piper longum ,Tuberculosis ,sweet,Cold ,Sweet,pasithithundi
+Kandathi legyam ,Agathiyar,,Picrorhiza scrophulariiflora,Tuberculosis ,"Bitter , Pungent ",Hot,Spicy ,"Muraivepagatri,Perungalichalundaki,Pasitheethundi,Kudalpuluagatri"
+Kandathi legyam ,Agathiyar,,Saccharum officinarum,Tuberculosis ,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Kandathi legyam ,Agathiyar,,Nei ,Tuberculosis ,null,null,null,null
+Kandathi legyam ,Agathiyar,,Honey ,Tuberculosis ,null,null,null,null
+Kandathi legyam ,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Kandathi legyam ,Agathiyar,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Kandathi legyam ,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Kandathi legyam ,Agathiyar,,Alpinia galanga,Tuberculosis ,Pungent,Hot,Spicy ,"Kollaiyakatri,Vepagatri,Pasitheethundi"
+Kandathi legyam ,Agathiyar,,Anacyclus pyrethrum,Tuberculosis ,Pungent ,Hot,Spicy ,"Vepammundaki,Umilneerperuki,Thadipundaki"
+Kandathi legyam ,Agathiyar,,Piper Cubeba,Tuberculosis ,"Pungent, viruvirupu",Hot,Spicy ,"veppamundaki,agatuvaiagatri,siruneerperuki,kolaiyagatri"
+Muyal Kirutham ,Agathiyar,,Justicia beddomei,Diabetes,Bitter,Hot,Spicy ,"Esivagatri,Kollaiyagatri,Nutpulukolli,Siruneerperuki"
+Muyal Kirutham ,Agathiyar,"head,leg, intestine",Muyal ,Diabetes,null,null,null,null
+Muyal Kirutham ,Agathiyar,,Glycyrrhiza glabra,Diabetes,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Muyal Kirutham ,Agathiyar,,Alternanthera sessilis,Diabetes,sweet,Cold ,Sweet,"udarthetri,kulirchiundaki"
+Muyal Kirutham ,Agathiyar,,Costus speciosus,Diabetes,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Muyal Kirutham ,Agathiyar,,Elettaria cardamomum,Diabetes,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+Muyal Kirutham ,Agathiyar,,Syzygium aromaticum,Diabetes,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Muyal Kirutham ,Agathiyar,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+Muyal Kirutham ,Agathiyar,,Carum copticum,Diabetes,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+Muyal Kirutham ,Agathiyar,,Cuminum cyminum,Diabetes,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Muyal Kirutham ,Agathiyar,,Cinnamomum verum,Diabetes,"pungent , Sweet",Cold ,Sweet,"Vepamundaki,Agatuvaiyagatri,Kamaperuki"
+Muyal Kirutham ,Agathiyar,,Saccharum officinarum,Diabetes,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Muyal Kirutham ,Agathiyar,,Myristica fragrans,Diabetes,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Muyal Kirutham ,Agathiyar,,Allium sativum,Diabetes,Pungent,Hot,Spicy ,"agatuvaiagatri,pasithithundi,uramaki,udarthetri,veppamundaki,kolaiyagatri,siruneerperuki,pulukoli"
+Muyal Kirutham ,Agathiyar,,Cocos nucifera,Diabetes,null,null,null,null
+Muyal Kirutham ,Agathiyar,ilaneer,milk ,Diabetes,null,null,null,null
+Muyal Kirutham ,Agathiyar,,Ghee,Diabetes,null,null,null,null
+Muyal Kirutham ,Agathiyar,,Amaranthus,Diabetes,null,null,null,null
+Ilaippu nei ,Agathiyar,,Eclipta prostrata,Tuberculosis ,Bitter,Hot,Spicy ,"Pithannerperuki,Uramaki,Udalthetri,Vanthiyundaki,Neermalampoki,Veekamuruki,Eralthetri"
+Ilaippu nei ,Agathiyar,,Clerodendrum inerme,Tuberculosis ,Bitter,Hot,Spicy ,"Udalthetri,Vepagatri,Uramaki"
+Ilaippu nei ,Agathiyar,,Tephrosia spinosa,Tuberculosis ,null,null,null,null
+Ilaippu nei ,Agathiyar,,Vitex negundo,Tuberculosis ,"Bitter, Astringent, Pungent",Hot,Spicy ,"Pothuseigai-udarthetri,puluvagatri(kudal)"
+Ilaippu nei ,Agathiyar,,Aegle marmelos,Tuberculosis ,"Astringent, Bitter ",Cold ,Spicy ,"viyarvaiperuki,kamamperuki,veppagatri"
+Ilaippu nei ,Agathiyar,,Justicia beddomei,Tuberculosis ,Bitter,Hot,Spicy ,"Esivagatri,Kollaiyagatri,Nutpulukolli,Siruneerperuki"
+Ilaippu nei ,Agathiyar,,Solanum trilobatum,Tuberculosis ,"mildBitter, Pungent",Hot,Spicy ,"veppamundaki,kolaiagatri,uramaki"
+Ilaippu nei ,Agathiyar,Flower,Withania somnifera,Tuberculosis ,Bitter,Hot,Spicy ,vepagatri
+panchalavan kuligai ,Agathiyar,,Alangium salvifolium,Tuberculosis ,Bitter,Hot,Spicy ,"Udalthetri,Pulukolli,Siruneerperuki,Vanthiyundaki,Vepagatri,Malamilaki,Kumatalelupi"
+panchalavan kuligai ,Agathiyar,,Plumbago zeylanica,Tuberculosis ,"Kasapu , virivirupu",Hot,Spicy ,"Muraivepagatri,Viyarvaiperuki"
+panchalavan kuligai ,Agathiyar,,Tacca pinnatifida,Tuberculosis ,Karakarapu,Hot,Spicy ,"Pasitheethundi,Thadipundaki"
+panchalavan kuligai ,Agathiyar,,Cissus quadrangularis,Tuberculosis ,Pungent ,Hot,Spicy ,"udarthetri,ruthuundaki,pasithithundi"
+panchalavan kuligai ,Agathiyar,,Carum copticum,Tuberculosis ,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+panchalavan kuligai ,Agathiyar,,Cuminum cyminum,Tuberculosis ,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+panchalavan kuligai ,Agathiyar,,Ferula asafoetida,Tuberculosis ,"Bitter, karakarapu",Hot,Spicy ,"veppamundaki,agatuvaiagatri,isivagatri,kolaiyagatri,malamilaki,pulukoli,siruneerperuki,kamamperuki,ruthuundaki"
+panchalavan kuligai ,Agathiyar,,Croton tiglium,Tuberculosis ,Bitter,Hot,Spicy ,"neermalampoki,thadipundaki"
+panchalavan kuligai ,Agathiyar,,Embelia ribes,Tuberculosis ,Bitter,Hot,Spicy ,"pulukolli,agatuvaiagatri,pasithithundi,veppamundaki"
+panchalavan kuligai ,Agathiyar,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+panchalavan kuligai ,Agathiyar,,Phyllanthus emblica,Tuberculosis ,"Sour, Astringent, sweet",Cold ,Sweet,null
+panchalavan kuligai ,Agathiyar,,Terminalia bellirica ,Tuberculosis ,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+panchalavan kuligai ,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+panchalavan kuligai ,Agathiyar,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+panchalavan kuligai ,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+panchalavan kuligai ,Agathiyar,,Allium sativum,Tuberculosis ,Pungent,Hot,Spicy ,"agatuvaiagatri,pasithithundi,uramaki,udarthetri,veppamundaki,kolaiyagatri,siruneerperuki,pulukoli"
+panchalavan kuligai ,Agathiyar,,Euphorbia ligularia,Tuberculosis ,null,null,null,"Thadipundaki,Kollaiyagatri,Neermalampoki"
+Thalaga parpam ,Agathiyar,,Thalagam,Tuberculosis ,null,null,null,null
+Thalaga parpam ,Agathiyar,Rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Thalaga parpam ,Agathiyar,Fruit juice,Citrus limon,Tuberculosis ,Sour,Hot,Spicy ,Kulirchiyundaki
+Thalaga parpam ,Agathiyar,,Hygrophila auriculata,Tuberculosis ,"sweet, mildBitter ",Cold ,Sweet,null
+Thalaga parpam ,Agathiyar,Pattai,Thespesia populnea ,Tuberculosis ,"Bitter, Astringent",Hot,Spicy ,"pulukolli,thuyimaiaaki"
+sanjeevi kuligai ,Agathiyar,,Dryopteris filix-mas,Diab/ TB ,null,null,null,null
+sanjeevi kuligai ,Agathiyar,,Aconitum napellus,Diab/ TB ,Bitter,Hot,Spicy ,"viyarvaiperuki,siruneerperuki,muraiveppakatri,thuyaryadaki,thabamagatri,veppadaki,murchaiundaki,thathuveppagatri"
+sanjeevi kuligai ,Agathiyar,,Croton tiglium,Diab/ TB ,Bitter,Hot,Spicy ,"neermalampoki,thadipundaki"
+sanjeevi kuligai ,Agathiyar,,Terminalia bellirica ,Diab/ TB ,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+sanjeevi kuligai ,Agathiyar,,Zingiber officinale,Diab/ TB ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+sanjeevi kuligai ,Agathiyar,,Piper nigrum,Diab/ TB ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+sanjeevi kuligai ,Agathiyar,,Piper longum,Diab/ TB ,sweet,Cold ,Sweet,null
+sanjeevi kuligai ,Agathiyar,Dried rhizome ,Eclipta prostrata,Diab/ TB ,Bitter,Hot,Spicy ,"Pithannerperuki,Uramaki,Udalthetri,Vanthiyundaki,Neermalampoki,Veekamuruki,Eralthetri"
+Rasa kuligai ,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Rasa kuligai ,Agathiyar,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Rasa kuligai ,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Rasa kuligai ,Agathiyar,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Rasa kuligai ,Agathiyar,,Phyllanthus emblica,Tuberculosis ,"Sour, Astringent, sweet",Cold ,Sweet,null
+Rasa kuligai ,Agathiyar,,Terminalia bellirica ,Tuberculosis ,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Rasa kuligai ,Agathiyar,,Carum copticum,Tuberculosis ,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+Rasa kuligai ,Agathiyar,,Citrus limon,Tuberculosis ,Sour,Hot,Spicy ,Kulirchiyundaki
+Pala noi kuligai ,Agathiyar,,Aconitum napellus,Tuberculosis ,Bitter,Hot,Spicy ,"viyarvaiperuki,siruneerperuki,muraiveppakatri,thuyaryadaki,thabamagatri,veppadaki,murchaiundaki,thathuveppagatri"
+Pala noi kuligai ,Agathiyar,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Pala noi kuligai ,Agathiyar,,Phyllanthus emblica,Tuberculosis ,"Sour, Astringent, sweet",Cold ,Sweet,null
+Pala noi kuligai ,Agathiyar,,Terminalia bellirica ,Tuberculosis ,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Pala noi kuligai ,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Pala noi kuligai ,Agathiyar,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Pala noi kuligai ,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Pala noi kuligai ,Agathiyar,,Cedrus deodara,Tuberculosis ,Astringent,Hot,Spicy ,"thuvarpi,veppakatri"
+Pala noi kuligai ,Agathiyar,,Croton tiglium,Tuberculosis ,Bitter,Hot,Spicy ,"neermalampoki,thadipundaki"
+Pala noi kuligai ,Agathiyar,,Erythrina variegata,Tuberculosis ,"Bitter , Pungent ",Hot,Spicy ,"Pithamagatri,Kollaiyagatri,Vepgatri,Pulukolli,Siruneerperuki,Malamilaki,Rudhundaki,Palperuki"
+Pala noi kuligai ,Agathiyar,,Butea monospermea,Tuberculosis ,Astringent ,Hot,Spicy ,null
+Arithara parpam ,Agathiyar,,Allium cepa,Tuberculosis ,Bitter,Hot,Spicy ,"veppamundaki,siruneerperuki,kolaiagatri,suthagamundaki,thadipundaki,ullalaratri,kamamperuki"
+Arithara parpam ,Agathiyar,,Cissus quadrangularis,Tuberculosis ,Pungent ,Hot,Spicy ,"udarthetri,ruthuundaki,pasithithundi"
+Arithara parpam ,Agathiyar,,Portulaca quadrifida,Tuberculosis ,mild Sour,Cold ,Sweet,"Siruneerperuki,Pasitheethuundi"
+Naga chendooram ,Agathiyar,oil,Madhuca longifolia,Tuberculosis ,Astringent ,Cold ,Spicy ,"Thuvarpi,Vepammundaki,Uramaki"
+Naga chendooram ,Agathiyar,,Nei ,Tuberculosis ,null,null,null,null
+Naga chendooram ,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Naga chendooram ,Agathiyar,,Carum copticum,Tuberculosis ,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+Naga chendooram ,Agathiyar,,Curcuma longa ,Tuberculosis ,"Pungent, Bitter",Hot,Spicy ,"manamuti,agatuvaiagatri,veppamundaki,eeralthetri"
+Naga chendooram ,Agathiyar,,Achyranthes aspera,Tuberculosis ,"Bitter, Astringent, Pungent",Hot,Spicy ,"thuvarpi,siruneerperuki,udarthetri,muraiveppakatri"
+Velleyam chendooram ,Agathiyar,,Zingiber purpureum,Diabetes,null,null,null,null
+Velleyam chendooram ,Agathiyar,,Carum copticum,Diabetes,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+Velleyam chendooram ,Agathiyar,,Aloe barbadensis,Diabetes,null,null,null,null
+Sadhilinga kattu ,Agathiyar,,Boswellia serrata,Diabetes,Bitter,Hot,Spicy ,"Pasitheethundi,Viyarvaiperuki,Thuvarpi,Kulirchiyundaki,Siruneerpruki,Rudhuundaki,Kollaiyagatri"
+Sadhilinga kattu ,Agathiyar,,Cinnamomum camphora,Diabetes,"Pungent , sweet",Cold ,Sweet,"Vepamundaki,Agatuvaiyagatri,Kamaperuki"
+Sadhilinga kattu ,Agathiyar,,Myristica fragrans,Diabetes,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Sadhilinga kattu ,Agathiyar,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+Tippliyathi choornam,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Tippliyathi choornam,Agathiyar,,Leucas aspera,Tuberculosis ,"sweet, Pungent",Hot,Spicy ,"malagari,kolaiagatri,veppamundaki,ruthuundaki"
+Tippliyathi choornam,Agathiyar,,Alpinia galanga,Tuberculosis ,Pungent,Hot,Spicy ,"Kollaiyakatri,Vepagatri,Pasitheethundi"
+Tippliyathi choornam,Agathiyar,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Tippliyathi choornam,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Tippliyathi choornam,Agathiyar,,Black pepper,Tuberculosis ,null,null,null,null
+Tippliyathi choornam,Agathiyar,,Phyllanthus emblica,Tuberculosis ,"Sour, Astringent, sweet",Cold ,Sweet,null
+Tippliyathi choornam,Agathiyar,,Glycyrrhiza glabra,Tuberculosis ,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Tippliyathi choornam,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Tippliyathi choornam,Agathiyar,,Cuminum cyminum,Tuberculosis ,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Tippliyathi choornam,Agathiyar,,Nigella sativa ,Tuberculosis ,Bitter,Hot,Spicy ,"Agatuvaiyagatri,Siruneerperuki,Rudhuundaki,Palperuki,Pulukolli,Pasitheethundi,Thookunapulukolli,Varatchiyagatri"
+Tippliyathi choornam,Agathiyar,,Elettaria cardamomum,Tuberculosis ,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+Tippliyathi choornam,Agathiyar,,Clerodendrum serratum,Tuberculosis ,"Bitter , Astringent",Hot,Spicy ,"Vepammundaki,Thathuvepagatri"
+Tippliyathi choornam,Agathiyar,,Piper longum ,Tuberculosis ,sweet,Cold ,Sweet,pasithithundi
+Tippliyathi choornam,Agathiyar,,Hyoscyamus niger,Tuberculosis ,"Pungent , mildBitter ",Hot,Spicy ,"Urakamundaki,Thathuvepagatri,Thuyaradaki,Esivakatri,Siruneerkuraipadaperuki"
+Tippliyathi choornam,Agathiyar,,Withania somnifera,Tuberculosis ,Bitter,Hot,Spicy ,vepagatri
+Tippliyathi choornam,Agathiyar,,Piper Cubeba,Tuberculosis ,"Pungent, viruvirupu",Hot,Spicy ,"veppamundaki,agatuvaiagatri,siruneerperuki,kolaiyagatri"
+Tippliyathi choornam,Agathiyar,,Curcuma angustifolia,Tuberculosis ,null,null,null,null
+Tippliyathi choornam,Agathiyar,,Solanum trilobatum,Tuberculosis ,"mildBitter, Pungent",Hot,Spicy ,"veppamundaki,kolaiagatri,uramaki"
+Tippliyathi choornam,Agathiyar,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Tippliyathi choornam,Agathiyar,,Abies spectabilis,Tuberculosis ,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Tippliyathi choornam,Agathiyar,,Cinnamomum verum,Tuberculosis ,"pungent , Sweet",Cold ,Sweet,"Vepamundaki,Agatuvaiyagatri,Kamaperuki"
+Tippliyathi choornam,Agathiyar,,Cinnamomum tamala,Tuberculosis ,"Pungent , sweet",Cold ,Sweet,"Vepamundaki,Agatuvaiyagatri,Kamaperuki"
+Tippliyathi choornam,Agathiyar,,Syzygium aromaticum,Tuberculosis ,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Tippliyathi choornam,Agathiyar,,Myristica fragrans,Tuberculosis ,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Tippliyathi choornam,Agathiyar,,Myristica fragrans,Tuberculosis ,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Tippliyathi choornam,Agathiyar,Ilai ,Momordica charantia,Tuberculosis ,Bitter,Hot,Spicy ,"pulukoli,parperuki"
+Tippliyathi choornam,Agathiyar,,Solanum surattense,Tuberculosis ,Pungent ,Hot,Spicy ,"Kollaiyagatri,Siruneerperuki,Agatuvaiyagatri,perungalichalundaki"
+Tippliyathi choornam,Agathiyar,,Eclipta prostrata,Tuberculosis ,Bitter,Hot,Spicy ,"Pithannerperuki,Uramaki,Udalthetri,Vanthiyundaki,Neermalampoki,Veekamuruki,Eralthetri"
+Kandankaari legyam ,Agathiyar,,Solanum surattense,Tuberculosis ,Pungent ,Hot,Spicy ,"Kollaiyagatri,Siruneerperuki,Agatuvaiyagatri,perungalichalundaki"
+Kandankaari legyam ,Agathiyar,,Solanum trilobatum,Tuberculosis ,"mildBitter, Pungent",Hot,Spicy ,"veppamundaki,kolaiagatri,uramaki"
+Kandankaari legyam ,Agathiyar,,Eclipta prostrata,Tuberculosis ,Bitter,Hot,Spicy ,"Pithannerperuki,Uramaki,Udalthetri,Vanthiyundaki,Neermalampoki,Veekamuruki,Eralthetri"
+Kandankaari legyam ,Agathiyar,,Hygrophila auriculata,Tuberculosis ,"sweet, mildBitter ",Cold ,Sweet,null
+Kandankaari legyam ,Agathiyar,Fruit,Gossypium herbaceum,Tuberculosis ,"Astringent, sweet",Hot,Spicy ,"thuvarpi,uramaki"
+Kandankaari legyam ,Agathiyar,,Alternanthera sessilis,Tuberculosis ,sweet,Cold ,Sweet,"udarthetri,kulirchiundaki"
+Kandankaari legyam ,Agathiyar,,Bacopa monnieri,Tuberculosis ,"sweet, Astringent ",Cold ,Sweet,"narampuramaki,siruneerperuki,malamilaki"
+Kandankaari legyam ,Agathiyar,,Phyla nodiflora,Tuberculosis ,"Bitter, Astringent ",Hot,Spicy ,"ullalaratri,veekankaraichu,siruneerperuki,thuvarpi,kolaiyagatri,uramaki"
+Kandankaari legyam ,Agathiyar,,Mukia maderaspatana,Tuberculosis ,"Astringent, Pungent",Hot,Spicy ,"kolaiyagatri,thuvarpi"
+Kandankaari legyam ,Agathiyar,,milk ,Tuberculosis ,null,null,null,null
+Kandankaari legyam ,Agathiyar,,Ghee,Tuberculosis ,null,null,null,null
+Kandankaari legyam ,Agathiyar,,Costus speciosus,Tuberculosis ,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Kandankaari legyam ,Agathiyar,,Alpinia galanga,Tuberculosis ,Pungent,Hot,Spicy ,"Kollaiyakatri,Vepagatri,Pasitheethundi"
+Kandankaari legyam ,Agathiyar,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Kandankaari legyam ,Agathiyar,,Carum copticum,Tuberculosis ,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+Kandankaari legyam ,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Kandankaari legyam ,Agathiyar,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Kandankaari legyam ,Agathiyar,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Kandankaari legyam ,Agathiyar,,Aconitum heterophyllum,Tuberculosis ,Bitter,Hot,Spicy ,"Pasitheethundi,Thuvarpi,Vepagatri,Anmaiperuki,Uramaki,Muraivepagatri"
+Kandankaari legyam ,Agathiyar,,Ferula asafoetida,Tuberculosis ,"Bitter, karakarapu",Hot,Spicy ,"veppamundaki,agatuvaiagatri,isivagatri,kolaiyagatri,malamilaki,pulukoli,siruneerperuki,kamamperuki,ruthuundaki"
+Kandankaari legyam ,Agathiyar,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Kandankaari legyam ,Agathiyar,,Saccharum officinarum,Tuberculosis ,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Kandankaari legyam ,Agathiyar,,Apis mellifera,Tuberculosis ,null,null,null,null
+Kool panda legyam ,Agathiyar,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Kool panda legyam ,Agathiyar,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Kool panda legyam ,Agathiyar,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+Kool panda legyam ,Agathiyar,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+Kool panda legyam ,Agathiyar,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+Kool panda legyam ,Agathiyar,,Terminalia bellirica ,Diabetes,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Kool panda legyam ,Agathiyar,,Cuminum cyminum,Diabetes,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Kool panda legyam ,Agathiyar,,Plumbago zeylanica,Diabetes,"Kasapu , virivirupu",Hot,Spicy ,"Muraivepagatri,Viyarvaiperuki"
+Kool panda legyam ,Agathiyar,,Mesua Ferrea ,Diabetes,null,null,null,null
+Kool panda legyam ,Agathiyar,,Elettaria cardamomum,Diabetes,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+Kool panda legyam ,Agathiyar,,Abies spectabilis,Diabetes,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Kool panda legyam ,Agathiyar,,Mesua nagassarium,Diabetes,"mildBitter , Astringent",Cold ,Spicy ,"Thuvarpi,Agatuvaiyagatri"
+Kool panda legyam ,Agathiyar,,Cassia senna,Diabetes,Bitter(veguttal),Hot,Spicy ,"neermalampoki,malamilaki"
+Kool panda legyam ,Agathiyar,,Operculina turpethum,Diabetes,Bitter,Hot,Spicy ,Neermalampoki
+Kool panda legyam ,Agathiyar,,Magnifera indica ,Diabetes,Astringent ,Hot,Spicy ,null
+Kool panda legyam ,Agathiyar,,Hemidesmus indicus ,Diabetes,"sweet, mildBitter",Cold ,Sweet,"udarthetri,uramaki,ullalaratri,siruneerperuki,viyarvaiperuki"
+Kool panda legyam ,Agathiyar,,Syzygium aromaticum,Diabetes,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Kool panda legyam ,Agathiyar,,Syzygium aromaticum,Diabetes,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Kool panda legyam ,Agathiyar,,Cyperus rotundus,Diabetes,null,null,null,"Thuvarpi,Vepammundaki,Uramaki,Siruneerperuki,Viyarvaiperuki,Ulalalatri,Rudhuundaki,Puluvagatri"
+Kool panda legyam ,Agathiyar,,Cucurbita maxima,Diabetes,sweet,Cold ,Sweet,"siruneerperuki,kulirchiundaki,uramaki"
+Kool panda legyam ,Agathiyar,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+Kool panda legyam ,Agathiyar,,milk ,Diabetes,null,null,null,null
+Kool panda legyam ,Agathiyar,,Nei ,Diabetes,null,null,null,null
+Kool panda legyam ,Agathiyar,,Saccharum officinarum,Diabetes,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Thalisapathiri choornam ,Agathiyar,,Costus speciosus,Diabetes,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Thalisapathiri choornam ,Agathiyar,,Plectranthus vettiveroides,Diabetes,Bitter,Cold ,Sweet,"kulirchiundaki,pithamadaki"
+Thalisapathiri choornam ,Agathiyar,,Elettaria cardamomum,Diabetes,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+Thalisapathiri choornam ,Agathiyar,,Anacyclus pyrethrum,Diabetes,Pungent ,Hot,Spicy ,"Vepammundaki,Umilneerperuki,Thadipundaki"
+Thalisapathiri choornam ,Agathiyar,,Glycyrrhiza glabra,Diabetes,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Thalisapathiri choornam ,Agathiyar,,Myristica fragrans,Diabetes,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Thalisapathiri choornam ,Agathiyar,,Clerodendrum inerme,Diabetes,Bitter,Hot,Spicy ,"Udalthetri,Vepagatri,Uramaki"
+Thalisapathiri choornam ,Agathiyar,,Operculina turpethum,Diabetes,Bitter,Hot,Spicy ,Neermalampoki
+Thalisapathiri choornam ,Agathiyar,,Croton tiglium,Diabetes,Bitter,Hot,Spicy ,"neermalampoki,thadipundaki"
+Thalisapathiri choornam ,Agathiyar,,Jasminum grandiflorum,Diabetes,Bitter,Hot,Spicy ,thuvarpi
+Thalisapathiri choornam ,Agathiyar,,Syzygium aromaticum,Diabetes,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Thalisapathiri choornam ,Agathiyar,,Clerodendrum serratum,Diabetes,"Bitter , Astringent",Hot,Spicy ,"Vepammundaki,Thathuvepagatri"
+Thalisapathiri choornam ,Agathiyar,,Terminalia bellirica ,Diabetes,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Thalisapathiri choornam ,Agathiyar,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+Thalisapathiri choornam ,Agathiyar,,Curcuma angustifolia,Diabetes,null,null,null,null
+Thalisapathiri choornam ,Agathiyar,,Oryza sativa,Diabetes,sweet,Cold ,Sweet,null
+Thalisapathiri choornam ,Agathiyar,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Thalisapathiri choornam ,Agathiyar,,Cyperus rotundus,Diabetes,null,null,null,"Thuvarpi,Vepammundaki,Uramaki,Siruneerperuki,Viyarvaiperuki,Ulalalatri,Rudhuundaki,Puluvagatri"
+Thalisapathiri choornam ,Agathiyar,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+Thalisapathiri choornam ,Agathiyar,,Cinnamomum tamala,Diabetes,"Pungent , sweet",Cold ,Sweet,"Vepamundaki,Agatuvaiyagatri,Kamaperuki"
+Thalisapathiri choornam ,Agathiyar,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+Thalisapathiri choornam ,Agathiyar,Ver,Hemidesmus indicus ,Diabetes,"sweet, mildBitter",Cold ,Sweet,"udarthetri,uramaki,ullalaratri,siruneerperuki,viyarvaiperuki"
+Thalisapathiri choornam ,Agathiyar,Seed,Gossypium herbaceum,Diabetes,"Astringent, sweet",Hot,Spicy ,"thuvarpi,uramaki"
+Thalisapathiri choornam ,Agathiyar,,Cuminum cyminum,Diabetes,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Thalisapathiri choornam ,Agathiyar,,Abies spectabilis,Diabetes,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Thalisapathiri choornam ,Agathiyar,,Saccharum officinarum,Diabetes,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Vilvathy thaylum ,Agathiyar,Root ,Aegle marmelos,Diabetes,"Astringent, Bitter ",Cold ,Spicy ,"viyarvaiperuki,kamamperuki,veppagatri"
+Vilvathy thaylum ,Agathiyar,Oil ,sesamum indicum ,Diabetes,Sweet,hot,Sweet,"Ulalagatri,Varatchiyagatri"
+Vilvathy thaylum ,Agathiyar,,Santalum album,Diabetes,"Bitter , mildAstringent ",Cold ,"Sweet, spicy","Udalthetri,Siruneerperuki,Viyarvaiperuki,Vepammundaki,Alugalagatri,Thuvarpi,Kulirchiyundaki"
+Vilvathy thaylum ,Agathiyar,,Glycyrrhiza glabra,Diabetes,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Silethuma Choornam ,Therayar ,,Solanum surattense,Tuberculosis ,Pungent ,Hot,Spicy ,"Kollaiyagatri,Siruneerperuki,Agatuvaiyagatri,perungalichalundaki"
+Silethuma Choornam ,Therayar ,,Indigofera tinctoria,Tuberculosis ,Bitter,Hot,Spicy ,"Nutpulukolli,muraivepagatri,vepamundaki"
+Silethuma Choornam ,Therayar ,,Abies spectabilis,Tuberculosis ,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Silethuma Choornam ,Therayar ,,Honey ,Tuberculosis ,null,null,null,null
+Shayarogathirku choornam ,Therayar ,,Glycyrrhiza glabra,Tuberculosis ,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Shayarogathirku choornam ,Therayar ,,Santalum album,Tuberculosis ,"Bitter , mildAstringent ",Cold ,"Sweet, spicy","Udalthetri,Siruneerperuki,Viyarvaiperuki,Vepammundaki,Alugalagatri,Thuvarpi,Kulirchiyundaki"
+Shayarogathirku choornam ,Therayar ,,Costus speciosus,Tuberculosis ,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Shayarogathirku choornam ,Therayar ,,Albizia lebbeck,Tuberculosis ,"Pungent, Bitter",Hot,Spicy ,"thuvarpi,kulirchiundaki"
+Shayarogathirku choornam ,Therayar ,,Carum copticum,Tuberculosis ,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+Shayarogathirku choornam ,Therayar ,,Curcuma zedoaria,Tuberculosis ,"Bitter , Arpapungent",Hot,Spicy ,"Veppamundaki,Agatuvaiyagatri,Kollaiyagatri,Siruneerperuki,Udalthetri,Manamooti"
+Shayarogathirku choornam ,Therayar ,,Cuminum cyminum,Tuberculosis ,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Shayarogathirku choornam ,Therayar ,,Abies spectabilis,Tuberculosis ,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Shayarogathirku choornam ,Therayar ,,Nigella sativa ,Tuberculosis ,Bitter,Hot,Spicy ,"Agatuvaiyagatri,Siruneerperuki,Rudhuundaki,Palperuki,Pulukolli,Pasitheethundi,Thookunapulukolli,Varatchiyagatri"
+Shayarogathirku choornam ,Therayar ,,Mesua nagassarium,Tuberculosis ,"mildBitter , Astringent",Cold ,Spicy ,"Thuvarpi,Agatuvaiyagatri"
+Shayarogathirku choornam ,Therayar ,,Saccharum officinarum,Tuberculosis ,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Thalaga parpam,Therayar ,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Thalaga parpam,Therayar ,,Thalagam,Tuberculosis ,null,null,null,null
+Velli parpam ,Therayar ,,Elettaria cardamomum,Tuberculosis ,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+Velli parpam ,Therayar ,,Barleria cristata ,Tuberculosis ,null,null,null,null
+Velli parpam ,Therayar ,,Tephrosia spinosa,Tuberculosis ,null,null,null,null
+Rasa parpam ,Therayar ,,Leucas aspera,Diabetes,"sweet, Pungent",Hot,Spicy ,"malagari,kolaiagatri,veppamundaki,ruthuundaki"
+Rasa parpam ,Therayar ,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+Kanthaga rasayanam ,Therayar ,,Elettaria cardamomum,Tuberculosis ,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+Kanthaga rasayanam ,Therayar ,,Syzygium aromaticum,Tuberculosis ,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Kanthaga rasayanam ,Therayar ,,Abies spectabilis,Tuberculosis ,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Kanthaga rasayanam ,Therayar ,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Kanthaga rasayanam ,Therayar ,2 balam ,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Kanthaga rasayanam ,Therayar ,3 balam ,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Kanthaga rasayanam ,Therayar ,4 balam ,Cuminum cyminum,Tuberculosis ,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Kanthaga rasayanam ,Therayar ,2,Myristica fragrans,Tuberculosis ,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Kanthaga rasayanam ,Therayar ,1,Plectranthus vettiveroides,Tuberculosis ,Bitter,Cold ,Sweet,"kulirchiundaki,pithamadaki"
+Kanthaga rasayanam ,Therayar ,1,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Kanthaga rasayanam ,Therayar ,1,Plumbago zeylanica,Tuberculosis ,"Kasapu , virivirupu",Hot,Spicy ,"Muraivepagatri,Viyarvaiperuki"
+Kanthaga rasayanam ,Therayar ,,Vitis vinifera,Tuberculosis ,sweet,Cold ,Sweet,thivarpi
+Kanthaga rasayanam ,Therayar ,,Coriandrum sativum,Tuberculosis ,Pungent ,Hot & Cold ,Spicy ,"Pasitheethundi,Agatuvaiyagatri,Vepammundaki,Siruneerperuki"
+Kanthaga rasayanam ,Therayar ,,Nardostachys grandiflora,Tuberculosis ,"Sweet , Pungent",Hot,Spicy ,"Vepammundaki,Esivagatri,Siruneerperuki,Kollaiyagatri"
+Kanthaga rasayanam ,Therayar ,,Phonex dactilifera,Tuberculosis ,Sweet,Hot,Spicy ,"Uramaki,Udaluramaki,Ullalalatri,Malamilaki,Siruneerperuki"
+Kanthaga rasayanam ,Therayar ,,Manilkara hexandra,Tuberculosis ,null,null,null,null
+Kanthaga rasayanam ,Therayar ,,Hygrophila auriculata,Tuberculosis ,"sweet, mildBitter ",Cold ,Sweet,null
+Kanthaga rasayanam ,Therayar ,,Tribulus terrestris,Tuberculosis ,"Astringent, sweet",Cold ,Sweet,"kulirchiundaki,siruneerperuki,ullalaratri,uramaki,anmaiperuki,thuvarpi"
+Kanthaga rasayanam ,Therayar ,,Curculigo orchioides,Tuberculosis ,sweet,Cold ,Sweet,"uramaki,siruneerperuki,thuvarpi,agatuvaiagatri,varatchiyagatri"
+Kanthaga rasayanam ,Therayar ,,Orthosiphon stamineus,Tuberculosis ,null,null,null,null
+Kanthaga rasayanam ,Therayar ,,Crocus sativus,Tuberculosis ,Bitter,Hot,Spicy ,"Vepammundaki,Pasitheethundi,Thuyaradaki,Esivagatri,Rudhuundaki"
+Kanthaga rasayanam ,Therayar ,,Saccharum officinarum,Tuberculosis ,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Kanthaga rasayanam ,Therayar ,3 ser,milk ,Tuberculosis ,null,null,null,null
+Kanthaga rasayanam ,Therayar ,,Honey ,Tuberculosis ,null,null,null,null
+Kanthaga rasayanam ,Therayar ,,Nei ,Tuberculosis ,null,null,null,null
+Megha rasangam ennai ,Therayar ,,Ricinus communis,Diabetes,Bitter,Hot,Spicy ,"Palperuki,Vthamadaki"
+Megha rasangam ennai ,Therayar ,,Bacopa monnieri,Diabetes,"sweet, Astringent ",Cold ,Sweet,"narampuramaki,siruneerperuki,malamilaki"
+Megha rasangam ennai ,Therayar ,,Citrullus vulgaris,Diabetes,sweet ,Cold ,Sweet,"kulirchiundaki,ullalaratri,siruneerperuki,udaluramaki"
+Megha rasangam ennai ,Therayar ,,Centella asiatica,Diabetes,"Astringent, Bitter, sweet",Cold ,Sweet,"udarthetri,uramaki,siruneerperuki,veppamundaki,ruthuundaki"
+Megha rasangam ennai ,Therayar ,,Mollugo lotoides,Diabetes,Pungent,Hot,Spicy ,Vepamundaki
+Megha rasangam ennai ,Therayar ,,Phyllanthus reticulatus,Diabetes,"sweet, Astringent ",Cold ,Sweet,"udarthetri,kulirchiundaki,siruneerperuki"
+Megha rasangam ennai ,Therayar ,,Capparis zeylanica,Diabetes,mildBitter,Hot,Spicy ,"Thathuveppagatri,Pasitheethundi,"
+Megha rasangam ennai ,Therayar ,,Vitex negundo,Diabetes,"Bitter, Astringent, Pungent",Hot,Spicy ,"Pothuseigai-udarthetri,puluvagatri(kudal)"
+Megha rasangam ennai ,Therayar ,,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Megha rasangam ennai ,Therayar ,,Azadirachta indica,Diabetes,Bitter,Hot,Spicy ,"veppamundaki,pulukoli,veekamparapi"
+Megha rasangam ennai ,Therayar ,,Cassia senna,Diabetes,Bitter(veguttal),Hot,Spicy ,"neermalampoki,malamilaki"
+Megha rasangam ennai ,Therayar ,,Clerodendrum inerme,Diabetes,Bitter,Hot,Spicy ,"Udalthetri,Vepagatri,Uramaki"
+Megha rasangam ennai ,Therayar ,,Glycyrrhiza glabra,Diabetes,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Megha rasangam ennai ,Therayar ,,Cuminum cyminum,Diabetes,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Megha rasangam ennai ,Therayar ,,Nigella sativa ,Diabetes,Bitter,Hot,Spicy ,"Agatuvaiyagatri,Siruneerperuki,Rudhuundaki,Palperuki,Pulukolli,Pasitheethundi,Thookunapulukolli,Varatchiyagatri"
+Megha rasangam ennai ,Therayar ,,Abies spectabilis,Diabetes,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Megha rasangam ennai ,Therayar ,,Aconitum heterophyllum,Diabetes,Bitter,Hot,Spicy ,"Pasitheethundi,Thuvarpi,Vepagatri,Anmaiperuki,Uramaki,Muraivepagatri"
+Megha rasangam ennai ,Therayar ,,Nardostachys grandiflora,Diabetes,"Sweet , Pungent",Hot,Spicy ,"Vepammundaki,Esivagatri,Siruneerperuki,Kollaiyagatri"
+Megha rasangam ennai ,Therayar ,,Abies spectabilis,Diabetes,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Megha rasangam ennai ,Therayar ,,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Megha rasangam ennai ,Therayar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Megha rasangam ennai ,Therayar ,Dried rhizome ,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+Megha rasangam ennai ,Therayar ,,Carum copticum,Diabetes,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+Megha rasangam ennai ,Therayar ,,Smilax china ,Diabetes,sweet,Cold ,Sweet,"udarthetri,megapinivilaki,kamamperuki,thuyimaiyaki"
+Megha rasangam ennai ,Therayar ,,Sesamum indicum,Diabetes,Sweet,Hot,Sweet,"Ulalagatri,Varatchiyagatri"
+Karuvanga parpam ,Therayar ,,Solanum anguivi,Diabetes,Pungent ,Hot,Spicy ,"Kamaperuki,Thuvarpi,Veekakaraichi,Kuruthiperuki"
+Karuvanga parpam ,Therayar ,,Piper Cubeba,Diabetes,"Pungent, viruvirupu",Hot,Spicy ,"veppamundaki,agatuvaiagatri,siruneerperuki,kolaiyagatri"
+Astakunma marunthu,Therayar ,,Anda oodu,Diab/ TB ,null,null,null,null
+Astakunma marunthu,Therayar ,,milk ,Diab/ TB ,null,null,null,null
+Astakunma marunthu,Therayar ,,Honey ,Diab/ TB ,null,null,null,null
+Astakunma marunthu,Therayar ,,Nei,Diab/ TB ,null,null,null,null
+Astakunma marunthu,Therayar ,,Glycyrrhiza glabra,Diab/ TB ,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Astakunma marunthu,Therayar ,,Syzygium aromaticum,Diab/ TB ,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Astakunma marunthu,Therayar ,,Abies spectabilis,Diab/ TB ,Pungent,Hot,Spicy ,"pasithithundi,agatuvaiagatri,kolaiagatri,uramaki."
+Astakunma marunthu,Therayar ,,Cuminum cyminum,Diab/ TB ,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Astakunma marunthu,Therayar ,,Nigella sativa ,Diab/ TB ,Bitter,Hot,Spicy ,"Agatuvaiyagatri,Siruneerperuki,Rudhuundaki,Palperuki,Pulukolli,Pasitheethundi,Thookunapulukolli,Varatchiyagatri"
+Astakunma marunthu,Therayar ,,Costus speciosus,Diab/ TB ,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Astakunma marunthu,Therayar ,,Plectranthus vettiveroides,Diab/ TB ,Bitter,Cold ,Sweet,"kulirchiundaki,pithamadaki"
+Astakunma marunthu,Therayar ,,Celastrus paniculatus,Diab/ TB ,Bitter,Hot,Spicy ,"kamamperuki,veppamundaki,udarthetri,viyarvaiperuki,nadiyuramaki"
+Astakunma marunthu,Therayar ,,Myristica fragrans,Diab/ TB ,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Astakunma marunthu,Therayar ,,Piper longum,Diab/ TB ,sweet,Cold ,Sweet,null
+Astakunma marunthu,Therayar ,,Piper nigrum,Diab/ TB ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Astakunma marunthu,Therayar ,,Saccharum officinarum,Diab/ TB ,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Sarva megha legyam ,Therayar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Sarva megha legyam ,Therayar ,,Papaver somniferum,Diabetes,null,null,null,"Thuyaradaki,Esivagatri,Thabamagatri,Viyarvaiperuki,Siruneerperuki,Kollaiyagatri,Kuruthipokadaki,Urakamundaki,Moorchaiyundaki,Urakamelupi,Thathuvepagatri,vepamundaki"
+Sarva megha legyam ,Therayar ,Seed,Mucuna pruriens,Diabetes,Astringent ,Cold ,Sweet,"thuvarpi,narambuuramaki,kamamperuki"
+Sarva megha legyam ,Therayar ,,Saccharum officinarum,Diabetes,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Kareeya chendooram ,Therayar ,,Abrus precatorius,Diabetes,Sweet ,Cold ,Sweet,"Malamilaki,Thabagatri,Kollaiyagatri"
+Nannari nilapanai nei ,Therayar ,,Curculigo orchioides,Diabetes,sweet,Cold ,Sweet,"uramaki,siruneerperuki,thuvarpi,agatuvaiagatri,varatchiyagatri"
+Nannari nilapanai nei ,Therayar ,,Hemidesmus indicus ,Diabetes,"sweet, mildBitter",Cold ,Sweet,"udarthetri,uramaki,ullalaratri,siruneerperuki,viyarvaiperuki"
+Nannari nilapanai nei ,Therayar ,,Acacia catechu,Diabetes,Astringent ,Cold ,Spicy ,Thuvarpi
+Nannari nilapanai nei ,Therayar ,,Pongamia pinnata,Diabetes,"Bitter, Astringent ",Hot,Spicy ,"thuvarpi,udalthetri,thukunipuluvagatri"
+Nannari nilapanai nei ,Therayar ,,Lannea coromandelica,Diabetes,Astringent,Hot,Spicy ,"Thuvarpi,Uramaki,Thothupuluvagatri,Kuruthiperukadaki```"
+Nannari nilapanai nei ,Therayar ,,Azima tetracantha,Diabetes,Bitter ,Hot,Spicy ,"Siruneerperuki,Vepammundaki,Thuvarpi,Uramaki,Muraivepagatri,Kollaiyagatri"
+Nannari nilapanai nei ,Therayar ,,Nei  ,Diabetes,null,null,null,null
+Nannari kirutham ,Therayar ,1 balam ,Hemidesmus indicus ,Diabetes,"sweet, mildBitter",Cold ,Sweet,"udarthetri,uramaki,ullalaratri,siruneerperuki,viyarvaiperuki"
+Nannari kirutham ,Therayar ,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Nannari kirutham ,Therayar , jaggery ,Borassus flabellifer,Diabetes,"Astringent, sweet",Cold ,Sweet,"thuvarpi,aanmaiperuki"
+Nannari kirutham ,Therayar ,Balam ,Nei ,Diabetes,null,null,null,null
+Megangalukku kalai ,Therayar ,,Anisomeles malabarica,Diabetes,Bitter,Hot,Spicy ,"Pasitheethundi,Agattuvaiyagatri,Viyarvaiperuki,Thuvarpi"
+Megangalukku kalai ,Therayar ,,Oryza sativa,Diabetes,sweet,Cold ,Sweet,null
+Megangalukku kalai ,Therayar ,Oil ,Sesamum indicum,Diabetes,Sweet,Hot,Sweet,"Ulalagatri,Varatchiyagatri"
+Megha podi ,Therayar ,balam ,Crataeva magna,Diabetes,Bitter,Hot,Spicy ,"pasithithundi,veppagatri,uramaki"
+Megha podi ,Therayar ,null.5 balam ,Cinnamomum verum,Diabetes,"pungent , Sweet",Cold ,Sweet,"Vepamundaki,Agatuvaiyagatri,Kamaperuki"
+Talaga parpam ,Therayar ,null.5 balam ,Thalagam,Diabetes,null,null,null,null
+Talaga parpam ,Therayar ,,Luffa acutangula,Diabetes,sweet ,Cold ,Sweet,"ullalaratri,siruneerperuki,udaluramaki"
+Rasa parpam ,Therayar ,1 balam ,Acalypha indica,Diab/ TB ,"Bitter , Pungent",Hot,Spicy ,"Thuyaradaki,Pulukolli,Perumalampoki,Siruneerperuki,Vanthiyundaki,Kollaiyagatri,Soothagamundaki"
+Vila ilai karkam ,Therayar ,2 balam ,Limonia acidissima,Diabetes,"Astringent, viruvirupu ",Hot,Spicy ,"manamuuti,agatuvaiagatri,thuvarpi"
+Vila ilai karkam ,Therayar ,2 balam ,Cyperus rotundus,Diabetes,null,null,null,"Thuvarpi,Vepammundaki,Uramaki,Siruneerperuki,Viyarvaiperuki,Ulalalatri,Rudhuundaki,Puluvagatri"
+Vila ilai karkam ,Therayar ,2 balam ,Phylanthus Amarus,Diabetes,"Astringent , Bitter ,Sour ,Sweet",Cold ,Sweet,"Veekamuruki,Siruneerperuki,Thuvarpi,Kulirchiyundaki"
+Vila ilai karkam ,Therayar ,,Vellatu paal ,Diabetes,null,null,null,null
+Vila ilai karkam ,Therayar ,pattai ,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Vila ilai karkam ,Therayar ,Pattai ,Magnifera indica ,Diabetes,Astringent ,Hot,Spicy ,null
+Vila ilai karkam ,Therayar ,,Acacia nilotica,Diabetes,Astringent ,Cold ,Sweet,thuvarpi
+Vila ilai karkam ,Therayar ,,Sesamum indicum,Diabetes,Sweet,Hot,Sweet,"Ulalagatri,Varatchiyagatri"
+Vila ilai karkam ,Therayar ,pattai ,Tribulus terrestris,Diabetes,"Astringent, sweet",Cold ,Sweet,"kulirchiundaki,siruneerperuki,ullalaratri,uramaki,anmaiperuki,thuvarpi"
+Vila ilai karkam ,Therayar ,,Borassus flabellifer,Diabetes,"Astringent, sweet",Cold ,Sweet,"thuvarpi,aanmaiperuki"
+Vila ilai karkam ,Therayar ,5,Areca catechu,Diabetes,Astringent ,Hot,Spicy ,"Thuvarpi,Vepammundaki,Saayametri"
+Vila ilai karkam ,Therayar ,pattai ,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Vila ilai karkam ,Therayar ,,Sida acuta,Diabetes,"Astringent , mild Bitter",Hot,Spicy ,Kuruthiperkadaki
+Vila ilai karkam ,Therayar ,,Butter milk,Diabetes,null,null,null,null
+Dooru chooranam ,Therayar ,6 balam ,Tamarindus indica,Diabetes,null,null,null,"ilaikolunthu-kulirchiundaki,pithhadaki"
+Thalaga parpam ,Therayar ,2 balam ,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Thalaga parpam ,Therayar ,,Cissus quadrangularis,Tuberculosis ,Pungent ,Hot,Spicy ,"udarthetri,ruthuundaki,pasithithundi"
+Thalaga parpam ,Therayar ,,Thalagam,Tuberculosis ,null,null,null,null
+Talaga parpam ,agathiyar ,,Thalagam,Diabetes,null,null,null,null
+Talaga parpam ,agathiyar ,,Tamarindus indica,Diabetes,null,null,null,"ilaikolunthu-kulirchiundaki,pithhadaki"
+Velli parpam ,Agathiyar ,Seed ,Cocos nucifera,Diab/ TB ,null,null,null,null
+Velli parpam ,Agathiyar ,Flower ,Mimusops elengi,Diab/ TB ,Astringent ,Hot,Spicy ,"thuvarpi,uramaki"
+Velli parpam ,Agathiyar ,root ,Tephrosia spinosa,Diab/ TB ,null,null,null,null
+,Agathiyar ,,Musa paradisiaea,Diabetes,Astringent ,Cold ,Spicy ,thuvarpi
+,Agathiyar ,,Borassus flabellifer,Diabetes,"Astringent, sweet",Cold ,Sweet,"thuvarpi,aanmaiperuki"
+Abraga parpam ,Agathiyar ,,Calotropis gigantea,Diab/ TB ,"Bitter , pungent , Sweet",Hot,Spicy ,"Pulukolli,Udalthetri,Malamilaki,Vepamundaki"
+Abraga parpam ,Agathiyar ,8 balam ,Cassia auriculata ,Diab/ TB ,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Abraga parpam ,Agathiyar ,,Withania somnifera,Diab/ TB ,Bitter,Hot,Spicy ,vepagatri
+Abraga parpam ,Agathiyar ,2 balam ,Cuminum cyminum,Diab/ TB ,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+Mandura parpam,Agathiyar ,,Croton tiglium,Diabetes,Bitter,Hot,Spicy ,"neermalampoki,thadipundaki"
+Mandura parpam,Agathiyar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Mandura parpam,Agathiyar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+Mandura parpam,Agathiyar ,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+Mandura parpam,Agathiyar ,,Saccharum officinarum,Diabetes,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Ayakantha senthuram,Agathiyar ,,Aloe barbadensis,Diabetes,null,null,null,null
+Sagalamega nei,Agathiyar ,Oil ,Abrus precatorius,Diabetes,Sweet ,Cold ,Sweet,"Malamilaki,Thabagatri,Kollaiyagatri"
+Sagalamega nei,Agathiyar ,Seed,Vellatu paal ,Diabetes,null,null,null,null
+Sagalamega nei,Agathiyar ,,milk ,Diabetes,null,null,null,null
+Thalaga chenduram ,Agathiyar ,,Euphorbia ligularia,Diabetes,null,null,null,"Thadipundaki,Kollaiyagatri,Neermalampoki"
+Thalaga chenduram ,Agathiyar ,,Thalagam,Diabetes,null,null,null,null
+Vanga parpam,Agathiyar ,,Koli muttai odu ,Diabetes,null,null,null,null
+Vanga parpam,Agathiyar ,,peranda parapam,Diabetes,null,null,null,null
+Thambira parpam,Agathiyar ,,Allium sativum,Diabetes,Pungent,Hot,Spicy ,"agatuvaiagatri,pasithithundi,uramaki,udarthetri,veppamundaki,kolaiyagatri,siruneerperuki,pulukoli"
+Thambira parpam,Agathiyar ,,Triticum aestivum,Diabetes,Sweet,Cold ,Sweet,"Udaluramaki,Ulalalatri"
+Shakuntala Rasayanam,Agathiyar ,Arisi,Elettaria cardamomum,Diabetes,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+Shakuntala Rasayanam,Agathiyar ,,Myristica fragrans,Diabetes,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Shakuntala Rasayanam,Agathiyar ,,Cinnamomum camphora,Diabetes,"Pungent , sweet",Cold ,Sweet,"Vepamundaki,Agatuvaiyagatri,Kamaperuki"
+Shakuntala Rasayanam,Agathiyar ,,Syzygium aromaticum,Diabetes,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+Shakuntala Rasayanam,Agathiyar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Shakuntala Rasayanam,Agathiyar ,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Shakuntala Rasayanam,Agathiyar ,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+Shakuntala Rasayanam,Agathiyar ,,Saccharum officinarum,Diabetes,Sweet,Cold ,Sweet,"Ulalalatri,Alugalatri,Kulirchiyundaki,Sirukalichalundaki,Siruneerperuki,Udaluramaki"
+Shakuntala Rasayanam,Agathiyar ,,Apis mellifera,Diabetes,null,null,null,null
+Kudineer,Agathiyar ,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Kudineer,Agathiyar ,,Phyllanthus emblica,Tuberculosis ,"Sour, Astringent, sweet",Cold ,Sweet,null
+Kudineer,Agathiyar ,Thol ,Terminalia bellirica ,Tuberculosis ,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Kudineer,Agathiyar ,Rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Kudineer,Agathiyar ,,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Kudineer,Agathiyar ,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Kudineer,Agathiyar ,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Thalaga kattu,Agathiyar ,,Thalagam,Diabetes,null,null,null,null
+Thalaga kattu,Agathiyar ,Ilai ,Leucas aspera,Diabetes,"sweet, Pungent",Hot,Spicy ,"malagari,kolaiagatri,veppamundaki,ruthuundaki"
+Karuvanga Parpam,Agathiyar ,,Anda oodu,Diab/ TB ,null,null,null,null
+Karuvanga Chenduram ,Agathiyar ,Pal ,Calotropis gigantea,Diab/ TB ,"Bitter , pungent , Sweet",Hot,Spicy ,"Pulukolli,Udalthetri,Malamilaki,Vepamundaki"
+Karuvanga Chenduram ,Agathiyar ,,Aloe barbadensis,Diab/ TB ,null,null,null,null
+Pavala Chunnam,Agathiyar ,,Justicia beddomei,Diabetes,Bitter,Hot,Spicy ,"Esivagatri,Kollaiyagatri,Nutpulukolli,Siruneerperuki"
+Vanga Chunnam,Agathiyar ,,Aloe barbadensis,Diabetes,null,null,null,null
+Vanga Chunnam,Agathiyar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+Vanga Chunnam,Agathiyar ,Pal ,Calotropis gigantea,Diabetes,"Bitter , pungent , Sweet",Hot,Spicy ,"Pulukolli,Udalthetri,Malamilaki,Vepamundaki"
+Vanga Chunnam,Agathiyar ,,Peruandam ,Diabetes,null,null,null,null
+Sathuvanga Chenduram,Agathiyar ,Pal ,Calotropis gigantea,Diabetes,"Bitter , pungent , Sweet",Hot,Spicy ,"Pulukolli,Udalthetri,Malamilaki,Vepamundaki"
+Vanga Chunnam ,Agathiyar ,,Koli muttai odu,Tuberculosis ,null,null,null,null
+Vanga Chunnam ,Agathiyar ,,Anda oodu,Tuberculosis ,null,null,null,null
+Vanga Chunnam ,Agathiyar ,,Muttaivellai,Tuberculosis ,null,null,null,null
+Kenthithara Chenduram ,Agathiyar ,Pal ,Calotropis gigantea,Diab/ TB ,"Bitter , pungent , Sweet",Hot,Spicy ,"Pulukolli,Udalthetri,Malamilaki,Vepamundaki"
+Gandha parpam,Therayar ,Root bark ,Anthocephalus cadamba,,"Astringent , Bitter",Hot,Spicy ,"Uramaki,Vepagatri"
+Gandha parpam,Therayar ,Verpattai saru ,Leucas aspera,,"sweet, Pungent",Hot,Spicy ,"malagari,kolaiagatri,veppamundaki,ruthuundaki"
+Gandha parpam,Therayar ,,Azadirachta indica,,Bitter,Hot,Spicy ,"veppamundaki,pulukoli,veekamparapi"
+Neerizhivu Kyalam,Therayar , thulir,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Neerizhivu Kyalam,Therayar ,,Kalmadham,Diabetes,null,null,null,null
+Neerizhivu Kyalam,Therayar ,Root,Cassis fistula,Diabetes,"Astringent , mildBitter ",Hot,Spicy ,null
+Neerizhivu Kyalam,Therayar ,,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Neerizhivu Kyalam,Therayar ,,Cassis fistula,Diabetes,"Astringent , mildBitter ",Hot,Spicy ,null
+Neerizhivu Kyalam,Therayar ,,Syzygium cumini,Diabetes,Astringent ,Cold ,Spicy ,Pothu-thuvarpi
+Neerizhivu Kyalam,Therayar ,,Salacia reticulata,Diabetes,Astringent,Cold ,Spicy ,"Ulalalatri,Thuvarpi"
+Neerizhivu Kyalam,Therayar ,,Cyperus rotundus,Diabetes,null,null,null,"Thuvarpi,Vepammundaki,Uramaki,Siruneerperuki,Viyarvaiperuki,Ulalalatri,Rudhuundaki,Puluvagatri"
+Neerizhivu Kyalam,Therayar ,,Costus speciosus,Diabetes,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Neerizhivu Kyalam,Therayar ,Pattai ,Terminalia arjuna,Diabetes,Astringent ,Cold ,Spicy ,null
+Neerizhivu Kyalam,Therayar ,,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Neerizhivu Kyalam,Therayar ,,Butter milk,Diabetes,null,null,null,null
+Neerizhivu Kyalam,Therayar ,Root,Curcuma zedoaria,Diabetes,"Bitter , Arpapungent",Hot,Spicy ,"Veppamundaki,Agatuvaiyagatri,Kollaiyagatri,Siruneerperuki,Udalthetri,Manamooti"
+Neerizhivu Kyalam,Therayar ,,Ziziphus mauritiania,Diabetes,null,null,null,"Thuvarpi,Varatchiyagatri"
+Neerizhivu Kyalam,Therayar ,,Jasminum grandiflorum,Diabetes,Bitter,Hot,Spicy ,thuvarpi
+Neerizhivu Kyalam,Therayar ,,Limonia acidissima,Diabetes,"Astringent, viruvirupu ",Hot,Spicy ,"manamuuti,agatuvaiagatri,thuvarpi"
+Neerizhivu Kyalam,Therayar ,,Strychnos potatorum,Diabetes,Bitter,Hot,Spicy ,"vanthiundaki,sethapeethipokki"
+Neerizhivu Kyalam,Therayar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+Neerizhivu Kyalam,Therayar ,Pisin ,Limonia acidissima,Diabetes,"Astringent, viruvirupu ",Hot,Spicy ,"manamuuti,agatuvaiagatri,thuvarpi"
+Neerizhivu Kyalam,Therayar ,Vidhai,Cassia auriculata ,Diabetes,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+Siriya Nirgundi Thailam,Therayar ,,Vitex negundo,Tuberculosis ,"Bitter, Astringent, Pungent",Hot,Spicy ,"Pothuseigai-udarthetri,puluvagatri(kudal)"
+Siriya Nirgundi Thailam,Therayar ,Oil ,sesamum indicum ,Tuberculosis ,Sweet,hot,Sweet,"Ulalagatri,Varatchiyagatri"
+Siriya Nirgundi Thailam,Therayar ,,Nardostachys grandiflora,Tuberculosis ,"Sweet , Pungent",Hot,Spicy ,"Vepammundaki,Esivagatri,Siruneerperuki,Kollaiyagatri"
+Siriya Nirgundi Thailam,Therayar ,Dried rhizome ,Zingiber officinale,Tuberculosis ,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Siriya Nirgundi Thailam,Therayar ,,Piper nigrum,Tuberculosis ,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Siriya Nirgundi Thailam,Therayar ,,Piper longum,Tuberculosis ,sweet,Cold ,Sweet,null
+Siriya Nirgundi Thailam,Therayar ,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Siriya Nirgundi Thailam,Therayar ,,Costus speciosus,Tuberculosis ,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Siriya Nirgundi Thailam,Therayar ,,Clerodendrum serratum,Tuberculosis ,"Bitter , Astringent",Hot,Spicy ,"Vepammundaki,Thathuvepagatri"
+Siriya Nirgundi Thailam,Therayar ,,Terminalia chebula,Tuberculosis ,Astringent,Hot,Sweet,null
+Siriya Nirgundi Thailam,Therayar ,,Phyllanthus emblica,Tuberculosis ,"Sour, Astringent, sweet",Cold ,Sweet,null
+Siriya Nirgundi Thailam,Therayar ,,Terminalia bellirica ,Tuberculosis ,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Siriya Nirgundi Thailam,Therayar ,Ver ,Solanum surattense,Tuberculosis ,Pungent ,Hot,Spicy ,"Kollaiyagatri,Siruneerperuki,Agatuvaiyagatri,perungalichalundaki"
+Siriya Nirgundi Thailam,Therayar ,,Kalluppu,Tuberculosis ,null,null,null,null
+Siriya Nirgundi Thailam,Therayar ,,Valaiyaluppu,Tuberculosis ,null,null,null,null
+Siriya Nirgundi Thailam,Therayar ,,Mannuppu,Tuberculosis ,null,null,null,null
+Siriya Nirgundi Thailam,Therayar ,,Vediuppu,Tuberculosis ,null,null,null,null
+Siriya Nirgundi Thailam,Therayar ,,Attuppu,Tuberculosis ,null,null,null,null
+Kadhagadhi Thailam,Therayar ,,Strychnos potatorum,Diabetes,Bitter,Hot,Spicy ,"vanthiundaki,sethapeethipokki"
+Kadhagadhi Thailam,Therayar ,Oil ,sesamum indicum ,Diabetes,Sweet,hot,Sweet,"Ulalagatri,Varatchiyagatri"
+Kadhagadhi Thailam,Therayar ,,Coscinium fenestratum,Diabetes,Bitter,Hot,Spicy ,"veppagatri,pasithithundi,uramaki"
+Kadhagadhi Thailam,Therayar ,,curcuma longa ,Diabetes,"Pungent, Bitter",Hot,Spicy ,"manamuti,agatuvaiagatri,veppamundaki,eeralthetri"
+Kadhagadhi Thailam,Therayar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+Kadhagadhi Thailam,Therayar ,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+Kadhagadhi Thailam,Therayar ,,Terminalia bellirica ,Diabetes,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Kadhagadhi Thailam,Therayar ,,Strychnos potatorum,Diabetes,Bitter,Hot,Spicy ,"vanthiundaki,sethapeethipokki"
+Kadhagadhi Thailam,Therayar ,,Santalum album,Diabetes,"Bitter , mildAstringent ",Cold ,"Sweet, spicy","Udalthetri,Siruneerperuki,Viyarvaiperuki,Vepammundaki,Alugalagatri,Thuvarpi,Kulirchiyundaki"
+Kadhagadhi Thailam,Therayar ,pazhathasai,Aegle marmelos,Diabetes,"Astringent, Bitter ",Cold ,Spicy ,"viyarvaiperuki,kamamperuki,veppagatri"
+Kadhagadhi Thailam,Therayar ,,Symplocos racemosa,Diabetes,Astringent ,Cold ,Sweet,"siruthuvarpi,kulirchiundaki,nachheri"
+Kadhagadhi Thailam,Therayar ,,Acacia catechu,Diabetes,Astringent ,Cold ,Spicy ,Thuvarpi
+Kadhagadhi Thailam,Therayar ,pazhathasai,Acacia catechu,Diabetes,Astringent ,Cold ,Spicy ,Thuvarpi
+Kadhagadhi Thailam,Therayar ,Seed ,Gossypium herbaceum,Diabetes,"Astringent, sweet",Hot,Spicy ,"thuvarpi,uramaki"
+Kadhagadhi Thailam,Therayar ,seed,Abrus precatorius,Diabetes,Sweet ,Cold ,Sweet,"Malamilaki,Thabagatri,Kollaiyagatri"
+Kadhagadhi Thailam,Therayar ,Paruppu ,Magnifera indica ,Diabetes,Astringent ,Hot,Spicy ,null
+Kadhagadhi Thailam,Therayar ,,Kavikkal,Diabetes,null,null,null,null
+Kadhagadhi Thailam,Therayar ,,Musa paradisiaea,Diabetes,Astringent ,Cold ,Spicy ,thuvarpi
+Kadhagadhi Thailam,Therayar ,,Aristolochia bracteolata,Diabetes,Bitter (kumatal),Hot,Spicy ,"Pulukoli,Soothagamundaki,Vepammundaki,Uramaki,Neermalampoki,Udalthetri,Muraivepagatri"
+Kadhagadhi Thailam,Therayar ,,Karpoora Silasathu,Diabetes,null,null,null,null
+Kadhagadhi Thailam,Therayar ,,Gandhakkal,Diabetes,null,null,null,null
+Sirukumari Thailam,Therayar ,Saaru,Aloe barbadensis,Diabetes,null,null,null,null
+Sirukumari Thailam,Therayar ,,milk ,Diabetes,null,null,null,null
+Sirukumari Thailam,Therayar ,,Pachai karpooram,Diabetes,null,null,null,null
+Sirukumari Thailam,Therayar ,Oil ,sesamum indicum ,Diabetes,Sweet,hot,Sweet,"Ulalagatri,Varatchiyagatri"
+Sirukumari Thailam,Therayar ,,Costus speciosus,Diabetes,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+Sirukumari Thailam,Therayar ,Ver,Rubia cordifolia ,Diabetes,"Pungent, Bitter ",Hot,Spicy ,suthagamundaki
+Sirukumari Thailam,Therayar ,,Santalum album,Diabetes,"Bitter , mildAstringent ",Cold ,"Sweet, spicy","Udalthetri,Siruneerperuki,Viyarvaiperuki,Vepammundaki,Alugalagatri,Thuvarpi,Kulirchiyundaki"
+Sirukumari Thailam,Therayar ,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+Sirukumari Thailam,Therayar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+Sirukumari Thailam,Therayar ,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+Sirukumari Thailam,Therayar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+Sirukumari Thailam,Therayar ,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+Sirukumari Thailam,Therayar ,,Terminalia bellirica ,Diabetes,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+Sirukumari Thailam,Therayar ,,Myristica fragrans,Diabetes,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+Sirukumari Thailam,Therayar ,,Glycyrrhiza glabra,Diabetes,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+Sirukumari Thailam,Therayar ,,Nardostachys grandiflora,Diabetes,"Sweet , Pungent",Hot,Spicy ,"Vepammundaki,Esivagatri,Siruneerperuki,Kollaiyagatri"
+Sirukumari Thailam,Therayar ,,Plectranthus vettiveroides,Diabetes,Bitter,Cold ,Sweet,"kulirchiundaki,pithamadaki"
+Sirukumari Thailam,Therayar ,,Cyperus rotundus,Diabetes,null,null,null,"Thuvarpi,Vepammundaki,Uramaki,Siruneerperuki,Viyarvaiperuki,Ulalalatri,Rudhuundaki,Puluvagatri"
+Sirukumari Thailam,Therayar ,,Grandhi thagaram,Diabetes,null,null,null,null
+Sirukumari Thailam,Therayar ,Ver,Hemidesmus indicus ,Diabetes,"sweet, mildBitter",Cold ,Sweet,"udarthetri,uramaki,ullalaratri,siruneerperuki,viyarvaiperuki"
+Sirukumari Thailam,Therayar ,tuber,Curcuma zedoaria,Diabetes,"Bitter , Arpapungent",Hot,Spicy ,"Veppamundaki,Agatuvaiyagatri,Kollaiyagatri,Siruneerperuki,Udalthetri,Manamooti"
+Sirukumari Thailam,Therayar ,,Rasanjanam,Diabetes,null,null,null,null
+Sirukumari Thailam,Therayar ,,Nymphaea alba ,Diabetes,Sweet,Cold ,Sweet,"Pithamadaki,KulirchiyundaKI"
+Sirukumari Thailam,Therayar ,,Clerodendrum inerme,Diabetes,Bitter,Hot,Spicy ,"Udalthetri,Vepagatri,Uramaki"
+pooranasanthirodhayam,Therayar ,Flower,Gossypium herbaceum,Diab/ TB ,"Astringent, sweet",Hot,Spicy ,"thuvarpi,uramaki"
+pooranasanthirodhayam,Therayar ,,Chloris barbata,Diab/ TB ,null,null,null,null
+pooranasanthirodhayam,Therayar ,,Eclipta prostrata,Diab/ TB ,Bitter,Hot,Spicy ,"Pithannerperuki,Uramaki,Udalthetri,Vanthiyundaki,Neermalampoki,Veekamuruki,Eralthetri"
+pooranasanthirodhayam,Therayar ,,sembu,Diab/ TB ,null,null,null,null
+pooranasanthirodhayam,Therayar ,,kendhi,Diab/ TB ,null,null,null,null
+pooranasanthirodhayam,Therayar ,,Copper sulphate,Diab/ TB ,null,null,null,null
+pooranasanthirodhayam,Therayar ,,vayirachendooram,Diab/ TB ,null,null,null,null
+vangasendhooram,Therayar ,,Cassia auriculata ,Tuberculosis ,Astringent,Cold ,Sweet,"Thuvarpi,Uramaki"
+vangasendhooram,Therayar ,,Abutilon indicum,Tuberculosis ,sweet,Cold ,Sweet,"ullalaratri,uramaki,malamilaki,siruneerperuki,thathuveppagatri"
+vangasendhooram,Therayar ,,kaariyam,Tuberculosis ,null,null,null,null
+vangasendhooram,Therayar ,,poonagam,Tuberculosis ,null,null,null,null
+asuvagandhi thylam,Therayar ,,Hydnocarpus laurifolia,Diab/ TB ,"Bitter, veguttal",Hot,Spicy ,"udarthetri,veppamundaki,punnalukalyagatri,thukunipulukolli"
+asuvagandhi thylam,Therayar ,Root ,Withania somnifera,Diab/ TB ,Bitter,Hot,Spicy ,vepagatri
+asuvagandhi thylam,Therayar ,,Pavonia zeylanica,Diab/ TB ,Astringent,Cold ,Sweet,Varatsiyagatri
+asuvagandhi thylam,Therayar ,,Manihot esculenta,Diab/ TB ,Sweet,Cold ,Sweet,Uramaki
+asuvagandhi thylam,Therayar ,,Hemidesmus indicus ,Diab/ TB ,"sweet, mildBitter",Cold ,Sweet,"udarthetri,uramaki,ullalaratri,siruneerperuki,viyarvaiperuki"
+asuvagandhi thylam,Therayar ,,Ipomoea batatas ,Diab/ TB ,Sweet,Cold ,Sweet,"kulirchiundaki,udaluramaki"
+,,,koovilum,Diab/ TB ,null,null,null,null
+,,,Thayir (curd),Diab/ TB ,null,null,null,null
+,,,Butter milk,Diab/ TB ,null,null,null,null
+asuvagandhi thylam,Therayar ,Oil ,Ipomoea batatas (L.) LAM.,Diab/ TB ,Sweet,Cold ,Sweet,"kulirchiundaki,udaluramaki"
+asuvagandhi thylam,Therayar ,,Alpinia galanga ,Diab/ TB ,pungent,hot,pungent ,"Kollaiyakatri,Vepagatri,Pasitheethundi"
+asuvagandhi thylam,Therayar ,,Adenanthera pavonina ,Diab/ TB ,null,null,null,null
+asuvagandhi thylam,Therayar ,,Piper longum,Diab/ TB ,sweet,Cold ,Sweet,null
+asuvagandhi thylam,Therayar ,,Costus speciosus,Diab/ TB ,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+asuvagandhi thylam,Therayar ,,Santalum album,Diab/ TB ,"Bitter , mildAstringent ",Cold ,"Sweet, spicy","Udalthetri,Siruneerperuki,Viyarvaiperuki,Vepammundaki,Alugalagatri,Thuvarpi,Kulirchiyundaki"
+asuvagandhi thylam,Therayar ,,Plectranthus vettiveroides,Diab/ TB ,Bitter,Cold ,Sweet,"kulirchiundaki,pithamadaki"
+asuvagandhi thylam,Therayar ,,Oldenlandia umbellata,Diab/ TB ,Sweet,Cold ,Sweet,"Kollaiyagatri,Kuruthiperukadaki,Pithaneerperuki"
+madhumegam marunthu,Therayar ,,Ficus benghalensis,Diabetes,Astringent,Cold ,Sweet,"Thovarpi,Uramaki,Kamaperuki"
+madhumegam marunthu,Therayar ,Bark ,Curcuma zedoaria,Diabetes,"Bitter , Arpapungent",Hot,Spicy ,"Veppamundaki,Agatuvaiyagatri,Kollaiyagatri,Siruneerperuki,Udalthetri,Manamooti"
+madhumegam marunthu,Therayar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+madhumegam marunthu,Therayar ,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+madhumegam marunthu,Therayar ,,Terminalia bellirica ,Diabetes,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+madhumegam marunthu,Therayar ,pattai ,Artocarpus heterophyllus,Diabetes,Astringent ,Hot,Spicy ,thuvarpi
+madhumegam marunthu,Therayar ,,Curcuma longa ,Diabetes,"Pungent, Bitter",Hot,Spicy ,"manamuti,agatuvaiagatri,veppamundaki,eeralthetri"
+madhumegam marunthu,Therayar ,,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+madhumegam marunthu,Therayar ,,Albizia amara,Diabetes,Astringent ,cold ,sweet,"Thuvarpi,Kulirchiyundaki"
+madhumegam marunthu,Therayar ,,Syzygium cumini,Diabetes,Astringent ,Cold ,Spicy ,Pothu-thuvarpi
+madhumegam marunthu,Therayar ,,Amarantus tristis,Diabetes,Sweet,Hot,Sweet,"Vepamundaki,kamaperuki"
+eelai sayam marunthu,Therayar ,,Smilax china ,Tuberculosis ,sweet,Cold ,Sweet,"udarthetri,megapinivilaki,kamamperuki,thuyimaiyaki"
+eelai sayam marunthu,Therayar ,,Acalypha indica,Tuberculosis ,"Bitter , Pungent",Hot,Spicy ,"Thuyaradaki,Pulukolli,Perumalampoki,Siruneerperuki,Vanthiyundaki,Kollaiyagatri,Soothagamundaki"
+eelai sayam marunthu,Therayar ,,Mesua nagassarium,Tuberculosis ,"mildBitter , Astringent",Cold ,Spicy ,"Thuvarpi,Agatuvaiyagatri"
+eelai sayam marunthu,Therayar ,,Costus speciosus,Tuberculosis ,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+eelai sayam marunthu,Therayar ,,Glycyrrhiza glabra,Tuberculosis ,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+eelai sayam marunthu,Therayar ,,Syzygium aromaticum,Tuberculosis ,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+eelai sayam marunthu,Therayar ,,Cinnamomum tamala,Tuberculosis ,"Pungent , sweet",Cold ,Sweet,"Vepamundaki,Agatuvaiyagatri,Kamaperuki"
+eelai sayam marunthu,Therayar ,,Syzygium aromaticum,Tuberculosis ,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+eelai sayam marunthu,Therayar ,,Myristica fragrans,Tuberculosis ,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+eelai sayam marunthu,Therayar ,,Hedyotis corymbosa,Tuberculosis ,Bitter,Hot,Spicy ,"malamilaki,pasithithundi,alugalagaitri,veppagatri,viyarvaiperuki"
+eelai sayam marunthu,Therayar ,,korosanai,Tuberculosis ,null,null,null,null
+eelai sayam marunthu,Therayar ,Pisin ,Limonia acidissima,Tuberculosis ,"Astringent, viruvirupu ",Hot,Spicy ,"manamuuti,agatuvaiagatri,thuvarpi"
+eelai sayam marunthu,Therayar ,,Carum copticum,Tuberculosis ,Pungent,Hot,Spicy ,"Pasithithundi,Esivagatri,Agatuvaiyagatri,Alugalagatri,Vepammundaki,Uramaki,Umilneerperuki"
+eelai sayam marunthu,Therayar ,,Acorus calamus,Tuberculosis ,Pungent,Hot,Spicy ,"veppamundaki,pasithithundi,muraiveppagatri,agatuvaiagatri,kumattalelupi,vanthiundaki,thotrupuluvagatri,nutpulukkolli"
+eelai sayam marunthu,Therayar ,,Allium sativum,Tuberculosis ,Pungent,Hot,Spicy ,"agatuvaiagatri,pasithithundi,uramaki,udarthetri,veppamundaki,kolaiyagatri,siruneerperuki,pulukoli"
+nannari nilapanai nei,Therayar ,root,Curculigo orchioides,Diabetes,sweet,Cold ,Sweet,"uramaki,siruneerperuki,thuvarpi,agatuvaiagatri,varatchiyagatri"
+nannari nilapanai nei,Therayar ,Ver,Hemidesmus indicus ,Diabetes,"sweet, mildBitter",Cold ,Sweet,"udarthetri,uramaki,ullalaratri,siruneerperuki,viyarvaiperuki"
+nannari nilapanai nei,Therayar ,Ver,Acacia catechu,Diabetes,Astringent ,Cold ,Spicy ,Thuvarpi
+nannari nilapanai nei,Therayar ,Pattai ,Pongamia pinnata,Diabetes,"Bitter, Astringent ",Hot,Spicy ,"thuvarpi,udalthetri,thukunipuluvagatri"
+nannari nilapanai nei,Therayar ,,Lannea coromandelica,Diabetes,Astringent,Hot,Spicy ,"Thuvarpi,Uramaki,Thothupuluvagatri,Kuruthiperukadaki```"
+nannari nilapanai nei,Therayar ,Pattai ,Azima tetracantha,Diabetes,Bitter ,Hot,Spicy ,"Siruneerperuki,Vepammundaki,Thuvarpi,Uramaki,Muraivepagatri,Kollaiyagatri"
+gandha parpam,Therayar ,,Gloriosa superba ,Diabetes,Bitter ,Hot,Spicy ,"Udalthetri,Muraivepagatri,Kalichalundaki"
+,,,gandham,Diabetes,null,null,null,null
+gandha parpam,Therayar ,,Plumbago zeylanica,Diabetes,"Kasapu , virivirupu",Hot,Spicy ,"Muraivepagatri,Viyarvaiperuki"
+gandha parpam,Therayar ,,Acalypha indica,Diabetes,"Bitter , Pungent",Hot,Spicy ,"Thuyaradaki,Pulukolli,Perumalampoki,Siruneerperuki,Vanthiyundaki,Kollaiyagatri,Soothagamundaki"
+gandha parpam,Therayar ,,Tephrosia purpurea,Diabetes,Pungent,Hot,Spicy ,"Kollaiyagatri,Siruneerperuki,Veekammuruki,Malapuluvagatri,Udalurumaki"
+kotasalakkuligai,Therayar ,,Vitex negundo,Diabetes,"Bitter, Astringent, Pungent",Hot,Spicy ,"Pothuseigai-udarthetri,puluvagatri(kudal)"
+,,,korosanai,Diabetes,null,null,null,null
+,,,komayam,Diabetes,null,null,null,null
+,,,pavalam,Diabetes,null,null,null,null
+,,,thalagam,Diabetes,null,null,null,null
+kotasalakkuligai,Therayar ,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+kotasalakkuligai,Therayar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+kotasalakkuligai,Therayar ,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+kotasalakkuligai,Therayar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+kotasalakkuligai,Therayar ,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+kotasalakkuligai,Therayar ,,Terminalia bellirica ,Diabetes,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+kotasalakkuligai,Therayar ,,Costus speciosus,Diabetes,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+kotasalakkuligai,Therayar ,,Coccinia grandis,Diabetes,Sweet,Cold ,Sweet,"Kollaiyagatri,Esivagatri,Muraivepagatri,Vepammundaki,Viyarvaiperuki"
+kotasalakkuligai,Therayar ,,Curculigo orchioides,Diabetes,sweet,Cold ,Sweet,"uramaki,siruneerperuki,thuvarpi,agatuvaiagatri,varatchiyagatri"
+kotasalakkuligai,Therayar ,,Ziziphus mauritiania,Diabetes,null,null,null,"Thuvarpi,Varatchiyagatri"
+kotasalakkuligai,Therayar ,,Leucas aspera,Diabetes,"sweet, Pungent",Hot,Spicy ,"malagari,kolaiagatri,veppamundaki,ruthuundaki"
+kotasalakkuligai,Therayar ,,Jasminum grandiflorum,Diabetes,Bitter,Hot,Spicy ,thuvarpi
+kotasalakkuligai,Therayar ,,Cannabis sativa,Diabetes,Bitter,Hot,Spicy ,"Vepamundaki,Thuyaradaki,Urakamundaki,Moorchaiyundaki,Urakammelupi,Kamaperuki,Esivagatri,Siruneerperuki,Paeruvaliyundaki"
+kotasalakkuligai,Therayar ,,Andrographis echioides,Diabetes,"Bitter , Astringent ",Cold ,Spicy ,null
+kotasalakkuligai,Therayar ,,Alangium salvifolium,Diabetes,Bitter,Hot,Spicy ,"Udalthetri,Pulukolli,Siruneerperuki,Vanthiyundaki,Vepagatri,Malamilaki,Kumatalelupi"
+,,,pandriyin moothirai,Diabetes,null,null,null,null
+,,,koli muttaikaru,Diabetes,null,null,null,null
+,,,kuyilmuttaikaru,Diabetes,null,null,null,null
+sambiranipoo,Therayar ,,Myristica fragrans,Diabetes,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+sambiranipoo,Therayar ,,Glycyrrhiza glabra,Diabetes,Sweet ,Cold ,Sweet,"Varatchiyakatri,Ullalagatri,kollaiyagatri,Malamilaki,Uramaki"
+sambiranipoo,Therayar ,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+sambiranipoo,Therayar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+sambiranipoo,Therayar ,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+,,, punugu sattam,Diabetes,null,null,null,null
+,,,sambiranipathangam,Diabetes,null,null,null,null
+,,,Leucas aspera,Diabetes,"sweet, Pungent",Hot,Spicy ,"malagari,kolaiagatri,veppamundaki,ruthuundaki"
+sambiranipoo,Therayar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+sambiranipoo,Therayar ,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+sambiranipoo,Therayar ,,Terminalia bellirica ,Diabetes,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+sambiranipoo,Therayar ,,Piper Cubeba,Diabetes,"Pungent, viruvirupu",Hot,Spicy ,"veppamundaki,agatuvaiagatri,siruneerperuki,kolaiyagatri"
+sambiranipoo,Therayar ,Arisi,Elettaria cardamomum,Diabetes,Pungent,Hot,Spicy ,"Vepamundaki,Agatuvaiyagatri,Pasitheethundi"
+sambiranipoo,Therayar ,,Buchanania lanzan,Diabetes,Sweet,Cold ,Sweet,Enbaperruki
+sambiranipoo,Therayar ,,Syzygium aromaticum,Diabetes,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+sambiranipoo,Therayar ,,Oldenlandia unbellata,Diabetes,Sweet,Cold ,Sweet,"Kollaiyagatri,Kuruthiperukadaki,Pithaneerperuki"
+sambiranipoo,Therayar ,,Coscinium fenestratum,Diabetes,Bitter,Hot,Spicy ,"veppagatri,pasithithundi,uramaki"
+sambiranipoo,Therayar ,Leaf,Plumbago zeylanica,Diabetes,"Kasapu , virivirupu",Hot,Spicy ,"Muraivepagatri,Viyarvaiperuki"
+serankottai legiyam,Therayar ,,Semecarpus anacardium,Diabetes,"Bitter , Viruvirupu",Hot,Spicy ,"Udalthetri,Punnaki"
+serankottai legiyam,Therayar ,juice ,Borassus flabellifer,Diabetes,"Astringent, sweet",Cold ,Sweet,"thuvarpi,aanmaiperuki"
+serankottai legiyam,Therayar ,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+serankottai legiyam,Therayar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+serankottai legiyam,Therayar ,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+serankottai legiyam,Therayar ,,Syzygium aromaticum,Diabetes,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+serankottai legiyam,Therayar ,,Pimpinella anisum,Diabetes," Pungent , Sweet",Hot,Spicy ,"Agatuvaiyagatri,Pasitheethundi"
+serankottai legiyam,Therayar ,,Cuminum cyminum,Diabetes,"Pungent , Sweet",Cold ,Sweet,"Agatuvaiyagatri,Vepammundaki,Pasitheethundi,Thuvarpi"
+sambiranipoo,Therayar ,,Boswellia serrata,Diabetes,Bitter,Hot,Spicy ,"Pasitheethundi,Viyarvaiperuki,Thuvarpi,Kulirchiyundaki,Siruneerpruki,Rudhuundaki,Kollaiyagatri"
+,,,venrasam,Diabetes,null,null,null,null
+sambiranipoo,Therayar ,,Myristica fragrans,Diabetes,"Astringent , Pungent",Hot,Spicy ,"Vekkammundaki,Agatuvaiyagatri,Moorchaiyundaki,Manamooti,Kaamaperuki,Uramaki"
+sambiranipoo,Therayar ,,Piper Cubeba,Diabetes,"Pungent, viruvirupu",Hot,Spicy ,"veppamundaki,agatuvaiagatri,siruneerperuki,kolaiyagatri"
+sambiranipoo,Therayar ,,Buchanania lanzan,Diabetes,Sweet,Cold ,Sweet,Enbaperruki
+sambiranipoo,Therayar ,,Syzygium aromaticum,Diabetes,"pungent , Viruvirupu",Hot,Spicy ,"Esivagatri,Agatuvaiyagatri,Pasitheethundi"
+sambiranipoo,Therayar ,,Oldenlandia umbellata,Diabetes,Sweet,Cold ,Sweet,"Kollaiyagatri,Kuruthiperukadaki,Pithaneerperuki"
+sambiranipoo,Therayar ,,Coscinium fenestratum,Diabetes,Bitter,Hot,Spicy ,"veppagatri,pasithithundi,uramaki"
+sambiranipoo,Therayar ,,Chrysanthemum indicum,Diabetes,Bitter,Hot,Pungent ,"Malamilaki,Vepammundaki,Muraivepagatri,Uramaki"
+sambiranipoo,Therayar ,,Plumbago zeylanica,Diabetes,"Kasapu , virivirupu",Hot,Spicy ,"Muraivepagatri,Viyarvaiperuki"
+sambiranipoo,Therayar ,,Indigofera aspalathoides,Diabetes,Bitter,Hot,Spicy ,"Vepammundaki,Ulalalatri"
+kodasalak kulikai,Therayar ,,Terminalia chebula,Diabetes,Astringent,Hot,Sweet,null
+kodasalak kulikai,Therayar ,,Phyllanthus emblica,Diabetes,"Sour, Astringent, sweet",Cold ,Sweet,null
+kodasalak kulikai,Therayar ,,Terminalia bellirica ,Diabetes,Astringent,Hot,Sweet,"Thuvarpi,kolaiagatri,malamilaki,uramaki"
+kodasalak kulikai,Therayar ,Dried rhizome ,Zingiber officinale,Diabetes,Pungent,Hot,Spicy ,"Agatuvaiyagatri,Pasitheethuntri,Umilneerperuki,Seripundaki,Vepamundaki,Thadipundaki"
+kodasalak kulikai,Therayar ,,Piper nigrum,Diabetes,"Bitter, Pungent ",Hot,Spicy ,"karalundaki,agatuvaiagatri,muraiveppagatri,thadipuundaki,veppamundaki,veekankaraichi,vathamadaiki,nachheri"
+kodasalak kulikai,Therayar ,,Piper longum,Diabetes,sweet,Cold ,Sweet,null
+,,,pavalam,Diabetes,null,null,null,null
+,,,kolamoothiram,Diabetes,null,null,null,null
+kodasalak kulikai,Therayar ,,Costus speciosus,Diabetes,"Bitter , Viruvirupu",Hot,Spicy ,"Pasitheethundi,Kollaiyagatri,Uramaki,Vepammundaki,Viyarvaiperuki"
+kodasalak kulikai,Therayar ,,Coccinia grandis,Diabetes,Sweet,Cold ,Sweet,"Kollaiyagatri,Esivagatri,Muraivepagatri,Vepammundaki,Viyarvaiperuki"
+kodasalak kulikai,Therayar ,,Curculigo orchioides,Diabetes,sweet,Cold ,Sweet,"uramaki,siruneerperuki,thuvarpi,agatuvaiagatri,varatchiyagatri"
+kodasalak kulikai,Therayar ,,Cyperus rotundus,Diabetes,null,null,null,"Thuvarpi,Vepammundaki,Uramaki,Siruneerperuki,Viyarvaiperuki,Ulalalatri,Rudhuundaki,Puluvagatri"
+kodasalak kulikai,Therayar ,,Andrographis echioides,Diabetes,"Bitter , Astringent ",Cold ,Spicy ,null
+kodasalak kulikai,Therayar ,,Aridaram ,Diabetes,null,null,null,null

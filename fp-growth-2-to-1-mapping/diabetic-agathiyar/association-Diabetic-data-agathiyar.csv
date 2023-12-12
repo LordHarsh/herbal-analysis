@@ -1,7 +1,0 @@
-,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
-0,frozenset({'syzygium aromaticum'}),frozenset({'elettaria cardamomum'}),0.14705882352941177,0.14705882352941177,0.14705882352941177,1.0,6.8,0.1254325259515571,inf,1.0
-1,frozenset({'elettaria cardamomum'}),frozenset({'syzygium aromaticum'}),0.14705882352941177,0.14705882352941177,0.14705882352941177,1.0,6.8,0.1254325259515571,inf,1.0
-2,"frozenset({'syzygium aromaticum', 'tinospora cordifolia'})",frozenset({'elettaria cardamomum'}),0.11764705882352941,0.14705882352941177,0.11764705882352941,1.0,6.8,0.10034602076124567,inf,0.9666666666666667
-3,"frozenset({'elettaria cardamomum', 'tinospora cordifolia'})",frozenset({'syzygium aromaticum'}),0.11764705882352941,0.14705882352941177,0.11764705882352941,1.0,6.8,0.10034602076124567,inf,0.9666666666666667
-4,frozenset({'syzygium aromaticum'}),"frozenset({'elettaria cardamomum', 'tinospora cordifolia'})",0.14705882352941177,0.11764705882352941,0.11764705882352941,0.7999999999999999,6.8,0.10034602076124567,4.4117647058823515,1.0
-5,frozenset({'elettaria cardamomum'}),"frozenset({'syzygium aromaticum', 'tinospora cordifolia'})",0.14705882352941177,0.11764705882352941,0.11764705882352941,0.7999999999999999,6.8,0.10034602076124567,4.4117647058823515,1.0

@@ -15,11 +15,11 @@
 13,0.10344827586206896,frozenset({'cyperus rotundus'})
 14,0.13793103448275862,frozenset({'tinospora cordifolia'})
 15,0.10344827586206896,frozenset({'elettaria cardamomum'})
-16,0.10344827586206896,"frozenset({'trikatu', 'costus speciosus'})"
-17,0.10344827586206896,"frozenset({'costus speciosus', 'triphala'})"
-18,0.10344827586206896,"frozenset({'trikatu', 'syzygium aromaticum'})"
-19,0.13793103448275862,"frozenset({'trikatu', 'triphala'})"
-20,0.13793103448275862,"frozenset({'terminalia bellirica', 'triphala'})"
-21,0.13793103448275862,"frozenset({'trikatu', 'terminalia bellirica'})"
-22,0.1206896551724138,"frozenset({'trikatu', 'terminalia bellirica', 'triphala'})"
+16,0.10344827586206896,"frozenset({'costus speciosus', 'trikatu'})"
+17,0.10344827586206896,"frozenset({'triphala', 'costus speciosus'})"
+18,0.10344827586206896,"frozenset({'syzygium aromaticum', 'trikatu'})"
+19,0.13793103448275862,"frozenset({'triphala', 'trikatu'})"
+20,0.13793103448275862,"frozenset({'triphala', 'terminalia bellirica'})"
+21,0.13793103448275862,"frozenset({'terminalia bellirica', 'trikatu'})"
+22,0.1206896551724138,"frozenset({'triphala', 'terminalia bellirica', 'trikatu'})"
 23,0.10344827586206896,"frozenset({'syzygium aromaticum', 'elettaria cardamomum'})"

@@ -1,25 +1,45 @@
 ,support,itemsets
-0,0.3103448275862069,frozenset({'trikatu'})
-1,0.10344827586206896,frozenset({'cassia auriculata'})
-2,0.1206896551724138,frozenset({'cuminum cyminum'})
-3,0.15517241379310345,frozenset({'costus speciosus'})
-4,0.13793103448275862,frozenset({'syzygium aromaticum'})
-5,0.13793103448275862,frozenset({'glycyrrhiza glabra'})
-6,0.1206896551724138,frozenset({'myristica fragrans'})
-7,0.10344827586206896,frozenset({'milk'})
-8,0.1206896551724138,frozenset({'hemidesmus indicus'})
-9,0.10344827586206896,frozenset({'aloe barbadensis'})
-10,0.2413793103448276,frozenset({'triphala'})
-11,0.15517241379310345,frozenset({'terminalia bellirica'})
-12,0.10344827586206896,frozenset({'sesamum indicum'})
-13,0.10344827586206896,frozenset({'cyperus rotundus'})
-14,0.13793103448275862,frozenset({'tinospora cordifolia'})
-15,0.10344827586206896,frozenset({'elettaria cardamomum'})
-16,0.10344827586206896,"frozenset({'trikatu', 'costus speciosus'})"
-17,0.10344827586206896,"frozenset({'costus speciosus', 'triphala'})"
-18,0.10344827586206896,"frozenset({'trikatu', 'syzygium aromaticum'})"
-19,0.13793103448275862,"frozenset({'trikatu', 'triphala'})"
-20,0.13793103448275862,"frozenset({'terminalia bellirica', 'triphala'})"
-21,0.13793103448275862,"frozenset({'trikatu', 'terminalia bellirica'})"
-22,0.1206896551724138,"frozenset({'trikatu', 'terminalia bellirica', 'triphala'})"
-23,0.10344827586206896,"frozenset({'syzygium aromaticum', 'elettaria cardamomum'})"
+0,0.44,frozenset({'trikatu'})
+1,0.24,frozenset({'costus speciosus'})
+2,0.16,frozenset({'glycyrrhiza glabra'})
+3,0.12,frozenset({'plectranthus vettiveroides'})
+4,0.12,frozenset({'nei'})
+5,0.12,frozenset({'myristica fragrans'})
+6,0.12,frozenset({'cuminum cyminum'})
+7,0.12,frozenset({'syzygium aromaticum'})
+8,0.2,frozenset({'hemidesmus indicus'})
+9,0.12,frozenset({'santalum album'})
+10,0.32,frozenset({'triphala'})
+11,0.24,frozenset({'terminalia bellirica'})
+12,0.2,frozenset({'sesamum indicum'})
+13,0.12,frozenset({'acacia catechu'})
+14,0.16,frozenset({'cyperus rotundus'})
+15,0.16,frozenset({'curculigo orchioides'})
+16,0.12,frozenset({'curcuma zedoaria'})
+17,0.12,frozenset({'cassia auriculata'})
+18,0.12,frozenset({'borassus flabellifer'})
+19,0.2,"frozenset({'costus speciosus', 'trikatu'})"
+20,0.16,"frozenset({'triphala', 'costus speciosus'})"
+21,0.12,"frozenset({'terminalia bellirica', 'costus speciosus'})"
+22,0.12,"frozenset({'triphala', 'costus speciosus', 'trikatu'})"
+23,0.12,"frozenset({'triphala', 'terminalia bellirica', 'costus speciosus'})"
+24,0.12,"frozenset({'terminalia bellirica', 'costus speciosus', 'trikatu'})"
+25,0.12,"frozenset({'triphala', 'terminalia bellirica', 'costus speciosus', 'trikatu'})"
+26,0.16,"frozenset({'glycyrrhiza glabra', 'trikatu'})"
+27,0.12,"frozenset({'plectranthus vettiveroides', 'costus speciosus'})"
+28,0.12,"frozenset({'plectranthus vettiveroides', 'trikatu'})"
+29,0.12,"frozenset({'plectranthus vettiveroides', 'costus speciosus', 'trikatu'})"
+30,0.12,"frozenset({'glycyrrhiza glabra', 'myristica fragrans'})"
+31,0.12,"frozenset({'trikatu', 'myristica fragrans'})"
+32,0.12,"frozenset({'glycyrrhiza glabra', 'trikatu', 'myristica fragrans'})"
+33,0.12,"frozenset({'cuminum cyminum', 'trikatu'})"
+34,0.12,"frozenset({'syzygium aromaticum', 'trikatu'})"
+35,0.12,"frozenset({'hemidesmus indicus', 'trikatu'})"
+36,0.2,"frozenset({'triphala', 'trikatu'})"
+37,0.24,"frozenset({'triphala', 'terminalia bellirica'})"
+38,0.2,"frozenset({'terminalia bellirica', 'trikatu'})"
+39,0.2,"frozenset({'triphala', 'terminalia bellirica', 'trikatu'})"
+40,0.12,"frozenset({'cyperus rotundus', 'costus speciosus'})"
+41,0.12,"frozenset({'cyperus rotundus', 'triphala'})"
+42,0.12,"frozenset({'cyperus rotundus', 'costus speciosus', 'triphala'})"
+43,0.12,"frozenset({'triphala', 'curcuma zedoaria'})"

@@ -1,25 +1,18 @@
 ,support,itemsets
-0,0.3103448275862069,frozenset({'trikatu'})
-1,0.10344827586206896,frozenset({'cassia auriculata'})
-2,0.1206896551724138,frozenset({'cuminum cyminum'})
-3,0.15517241379310345,frozenset({'costus speciosus'})
-4,0.13793103448275862,frozenset({'syzygium aromaticum'})
-5,0.13793103448275862,frozenset({'glycyrrhiza glabra'})
-6,0.1206896551724138,frozenset({'myristica fragrans'})
-7,0.10344827586206896,frozenset({'milk'})
-8,0.1206896551724138,frozenset({'hemidesmus indicus'})
-9,0.10344827586206896,frozenset({'aloe barbadensis'})
-10,0.2413793103448276,frozenset({'triphala'})
-11,0.15517241379310345,frozenset({'terminalia bellirica'})
-12,0.10344827586206896,frozenset({'sesamum indicum'})
-13,0.10344827586206896,frozenset({'cyperus rotundus'})
-14,0.13793103448275862,frozenset({'tinospora cordifolia'})
-15,0.10344827586206896,frozenset({'elettaria cardamomum'})
-16,0.10344827586206896,"frozenset({'trikatu', 'costus speciosus'})"
-17,0.10344827586206896,"frozenset({'costus speciosus', 'triphala'})"
-18,0.10344827586206896,"frozenset({'trikatu', 'syzygium aromaticum'})"
-19,0.13793103448275862,"frozenset({'trikatu', 'triphala'})"
-20,0.13793103448275862,"frozenset({'terminalia bellirica', 'triphala'})"
-21,0.13793103448275862,"frozenset({'trikatu', 'terminalia bellirica'})"
-22,0.1206896551724138,"frozenset({'trikatu', 'terminalia bellirica', 'triphala'})"
-23,0.10344827586206896,"frozenset({'syzygium aromaticum', 'elettaria cardamomum'})"
+0,0.20588235294117646,frozenset({'trikatu'})
+1,0.14705882352941177,frozenset({'calotropis gigantea'})
+2,0.11764705882352941,frozenset({'cuminum cyminum'})
+3,0.14705882352941177,frozenset({'aloe barbadensis'})
+4,0.20588235294117646,frozenset({'tinospora cordifolia'})
+5,0.17647058823529413,frozenset({'triphala'})
+6,0.14705882352941177,frozenset({'syzygium aromaticum'})
+7,0.14705882352941177,frozenset({'elettaria cardamomum'})
+8,0.11764705882352941,frozenset({'milk'})
+9,0.11764705882352941,frozenset({'myristica fragrans'})
+10,0.11764705882352941,frozenset({'glycyrrhiza glabra'})
+11,0.11764705882352941,"frozenset({'tinospora cordifolia', 'trikatu'})"
+12,0.11764705882352941,"frozenset({'triphala', 'tinospora cordifolia'})"
+13,0.11764705882352941,"frozenset({'tinospora cordifolia', 'syzygium aromaticum'})"
+14,0.14705882352941177,"frozenset({'syzygium aromaticum', 'elettaria cardamomum'})"
+15,0.11764705882352941,"frozenset({'tinospora cordifolia', 'elettaria cardamomum'})"
+16,0.11764705882352941,"frozenset({'tinospora cordifolia', 'syzygium aromaticum', 'elettaria cardamomum'})"

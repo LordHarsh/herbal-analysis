@@ -1,0 +1,8 @@
+,support,itemsets
+42,0.2,"frozenset({'terminalia bellirica', 'triphala', 'trikatu'})"
+36,0.12,"frozenset({'cyperus rotundus', 'triphala', 'costus speciosus'})"
+37,0.12,"frozenset({'costus speciosus', 'plectranthus vettiveroides', 'trikatu'})"
+38,0.12,"frozenset({'costus speciosus', 'terminalia bellirica', 'trikatu'})"
+39,0.12,"frozenset({'costus speciosus', 'terminalia bellirica', 'triphala'})"
+40,0.12,"frozenset({'costus speciosus', 'triphala', 'trikatu'})"
+41,0.12,"frozenset({'glycyrrhiza glabra', 'trikatu', 'myristica fragrans'})"

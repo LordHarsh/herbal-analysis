@@ -1,0 +1,2 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+2,"frozenset({'triphala', 'trikatu'})",frozenset({'terminalia bellirica'}),0.13793103448275862,0.15517241379310345,0.1206896551724138,0.875,5.638888888888888,0.09928656361474436,6.758620689655173,0.9542857142857144

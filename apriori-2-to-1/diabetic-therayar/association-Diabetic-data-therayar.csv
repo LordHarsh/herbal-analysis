@@ -1,0 +1,4 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+2,"frozenset({'costus speciosus', 'trikatu'})",frozenset({'plectranthus vettiveroides'}),0.2,0.12,0.12,0.6,5.0,0.096,2.1999999999999997,1.0
+4,"frozenset({'glycyrrhiza glabra', 'trikatu'})",frozenset({'myristica fragrans'}),0.16,0.12,0.12,0.75,6.25,0.1008,3.52,1.0000000000000002
+5,"frozenset({'trikatu', 'myristica fragrans'})",frozenset({'glycyrrhiza glabra'}),0.12,0.16,0.12,1.0,6.25,0.1008,inf,0.9545454545454546

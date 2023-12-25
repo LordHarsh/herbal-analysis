@@ -1,0 +1,61 @@
+,support,itemsets
+0,0.14285714285714285,frozenset({'croton tiglium'})
+1,0.38095238095238093,frozenset({'triphala'})
+2,0.19047619047619047,frozenset({'solanum trilobatum'})
+3,0.14285714285714285,frozenset({'withania somnifera'})
+4,0.23809523809523808,frozenset({'carum copticum'})
+5,0.14285714285714285,frozenset({'cuminum cyminum'})
+6,0.19047619047619047,frozenset({'saccharum officinarum'})
+7,0.19047619047619047,frozenset({'eclipta prostrata'})
+8,0.14285714285714285,frozenset({'calotropis gigantea'})
+9,0.2857142857142857,frozenset({'terminalia bellirica'})
+10,0.14285714285714285,frozenset({'syzygium aromaticum'})
+11,0.5714285714285714,frozenset({'trikatu'})
+12,0.14285714285714285,frozenset({'solanum surattense'})
+13,0.14285714285714285,frozenset({'nei'})
+14,0.19047619047619047,frozenset({'alpinia galanga'})
+15,0.14285714285714285,frozenset({'glycyrrhiza glabra'})
+16,0.14285714285714285,"frozenset({'terminalia bellirica', 'croton tiglium'})"
+17,0.14285714285714285,"frozenset({'croton tiglium', 'trikatu'})"
+18,0.14285714285714285,"frozenset({'triphala', 'solanum trilobatum'})"
+19,0.19047619047619047,"frozenset({'triphala', 'carum copticum'})"
+20,0.14285714285714285,"frozenset({'saccharum officinarum', 'triphala'})"
+21,0.23809523809523808,"frozenset({'terminalia bellirica', 'triphala'})"
+22,0.38095238095238093,"frozenset({'triphala', 'trikatu'})"
+23,0.14285714285714285,"frozenset({'solanum surattense', 'triphala'})"
+24,0.19047619047619047,"frozenset({'alpinia galanga', 'triphala'})"
+25,0.14285714285714285,"frozenset({'solanum trilobatum', 'eclipta prostrata'})"
+26,0.14285714285714285,"frozenset({'solanum trilobatum', 'trikatu'})"
+27,0.14285714285714285,"frozenset({'solanum surattense', 'solanum trilobatum'})"
+28,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum trilobatum'})"
+29,0.23809523809523808,"frozenset({'carum copticum', 'trikatu'})"
+30,0.14285714285714285,"frozenset({'saccharum officinarum', 'trikatu'})"
+31,0.14285714285714285,"frozenset({'alpinia galanga', 'saccharum officinarum'})"
+32,0.14285714285714285,"frozenset({'trikatu', 'eclipta prostrata'})"
+33,0.2857142857142857,"frozenset({'terminalia bellirica', 'trikatu'})"
+34,0.14285714285714285,"frozenset({'glycyrrhiza glabra', 'syzygium aromaticum'})"
+35,0.14285714285714285,"frozenset({'solanum surattense', 'trikatu'})"
+36,0.19047619047619047,"frozenset({'alpinia galanga', 'trikatu'})"
+37,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum surattense'})"
+38,0.14285714285714285,"frozenset({'terminalia bellirica', 'croton tiglium', 'trikatu'})"
+39,0.14285714285714285,"frozenset({'triphala', 'solanum trilobatum', 'trikatu'})"
+40,0.14285714285714285,"frozenset({'solanum surattense', 'triphala', 'solanum trilobatum'})"
+41,0.14285714285714285,"frozenset({'alpinia galanga', 'triphala', 'solanum trilobatum'})"
+42,0.19047619047619047,"frozenset({'triphala', 'carum copticum', 'trikatu'})"
+43,0.14285714285714285,"frozenset({'saccharum officinarum', 'triphala', 'trikatu'})"
+44,0.14285714285714285,"frozenset({'alpinia galanga', 'saccharum officinarum', 'triphala'})"
+45,0.23809523809523808,"frozenset({'terminalia bellirica', 'triphala', 'trikatu'})"
+46,0.14285714285714285,"frozenset({'solanum surattense', 'triphala', 'trikatu'})"
+47,0.19047619047619047,"frozenset({'alpinia galanga', 'triphala', 'trikatu'})"
+48,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum surattense', 'triphala'})"
+49,0.14285714285714285,"frozenset({'solanum surattense', 'solanum trilobatum', 'trikatu'})"
+50,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum trilobatum', 'trikatu'})"
+51,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum surattense', 'solanum trilobatum'})"
+52,0.14285714285714285,"frozenset({'alpinia galanga', 'saccharum officinarum', 'trikatu'})"
+53,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum surattense', 'trikatu'})"
+54,0.14285714285714285,"frozenset({'solanum surattense', 'triphala', 'solanum trilobatum', 'trikatu'})"
+55,0.14285714285714285,"frozenset({'alpinia galanga', 'triphala', 'solanum trilobatum', 'trikatu'})"
+56,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum surattense', 'triphala', 'solanum trilobatum'})"
+57,0.14285714285714285,"frozenset({'alpinia galanga', 'saccharum officinarum', 'triphala', 'trikatu'})"
+58,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum surattense', 'triphala', 'trikatu'})"
+59,0.14285714285714285,"frozenset({'alpinia galanga', 'solanum surattense', 'solanum trilobatum', 'trikatu'})"

@@ -1,0 +1,11 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+['nei'],"['syzygium aromaticum', 'saccharum officinarum']",5.0,4.0,4.0,0.8,0.2,-16.0,-15.000000000000004,0.0
+"['syzygium aromaticum', 'saccharum officinarum']",['nei'],4.0,5.0,4.0,1.0,0.2,-16.0,inf,-4.0
+['myristica fragrans'],['syzygium aromaticum'],4.0,6.0,4.0,1.0,0.16666666666666666,-20.0,inf,-2.5
+['syzygium aromaticum'],"['nei', 'saccharum officinarum']",6.0,4.0,4.0,0.6666666666666666,0.16666666666666666,-20.0,-8.999999999999998,0.0
+"['nei', 'saccharum officinarum']",['syzygium aromaticum'],4.0,6.0,4.0,1.0,0.16666666666666666,-20.0,inf,-2.5
+['syzygium aromaticum'],['myristica fragrans'],6.0,4.0,4.0,0.6666666666666666,0.16666666666666666,-20.0,-8.999999999999998,0.0
+['saccharum officinarum'],"['syzygium aromaticum', 'nei']",7.0,4.0,4.0,0.5714285714285714,0.14285714285714285,-24.0,-6.999999999999999,0.0
+"['syzygium aromaticum', 'nei']",['saccharum officinarum'],4.0,7.0,4.0,1.0,0.14285714285714285,-24.0,inf,-2.0
+['glycyrrhiza glabra'],['syzygium aromaticum'],6.0,6.0,5.0,0.8333333333333334,0.1388888888888889,-31.0,-30.000000000000007,-5.166666666666667
+['syzygium aromaticum'],['glycyrrhiza glabra'],6.0,6.0,5.0,0.8333333333333334,0.1388888888888889,-31.0,-30.000000000000007,-5.166666666666667

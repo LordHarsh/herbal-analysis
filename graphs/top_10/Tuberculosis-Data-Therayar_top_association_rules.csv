@@ -1,0 +1,11 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+"['milk', 'honey', 'trikatu']","['cuminum cyminum', 'myristica fragrans', 'plectranthus vettiveroides', 'saccharum officinarum']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['abies spectabilis', 'honey', 'trikatu']","['cuminum cyminum', 'milk', 'syzygium aromaticum', 'myristica fragrans']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['cuminum cyminum', 'syzygium aromaticum', 'myristica fragrans']","['milk', 'abies spectabilis', 'honey', 'trikatu']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['cuminum cyminum', 'myristica fragrans', 'honey']","['milk', 'abies spectabilis', 'trikatu', 'syzygium aromaticum']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['cuminum cyminum', 'myristica fragrans', 'trikatu']","['milk', 'abies spectabilis', 'honey', 'syzygium aromaticum']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['cuminum cyminum', 'milk', 'syzygium aromaticum']","['abies spectabilis', 'myristica fragrans', 'honey', 'trikatu']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['cuminum cyminum', 'milk', 'honey']","['syzygium aromaticum', 'abies spectabilis', 'myristica fragrans', 'trikatu']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['cuminum cyminum', 'milk', 'trikatu']","['syzygium aromaticum', 'abies spectabilis', 'myristica fragrans', 'honey']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['cuminum cyminum', 'syzygium aromaticum', 'honey']","['milk', 'abies spectabilis', 'myristica fragrans', 'trikatu']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0
+"['cuminum cyminum', 'syzygium aromaticum', 'trikatu']","['milk', 'abies spectabilis', 'myristica fragrans', 'honey']",2.0,2.0,2.0,1.0,0.5,-2.0,inf,0.0

@@ -1,0 +1,11 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+['syzygium aromaticum'],['elettaria cardamomum'],5.0,5.0,5.0,1.0,0.2,-20.0,inf,0.0
+['elettaria cardamomum'],['syzygium aromaticum'],5.0,5.0,5.0,1.0,0.2,-20.0,inf,0.0
+"['tinospora cordifolia', 'syzygium aromaticum']",['elettaria cardamomum'],4.0,5.0,4.0,1.0,0.2,-16.0,inf,-4.0
+"['tinospora cordifolia', 'elettaria cardamomum']",['syzygium aromaticum'],4.0,5.0,4.0,1.0,0.2,-16.0,inf,-4.0
+['syzygium aromaticum'],"['tinospora cordifolia', 'elettaria cardamomum']",5.0,4.0,4.0,0.8,0.2,-16.0,-15.000000000000004,0.0
+['elettaria cardamomum'],"['tinospora cordifolia', 'syzygium aromaticum']",5.0,4.0,4.0,0.8,0.2,-16.0,-15.000000000000004,0.0
+['elettaria cardamomum'],['tinospora cordifolia'],5.0,7.0,4.0,0.8,0.1142857142857143,-31.0,-30.000000000000007,-2.066666666666667
+['syzygium aromaticum'],['tinospora cordifolia'],5.0,7.0,4.0,0.8,0.1142857142857143,-31.0,-30.000000000000007,-2.066666666666667
+"['syzygium aromaticum', 'elettaria cardamomum']",['tinospora cordifolia'],5.0,7.0,4.0,0.8,0.1142857142857143,-31.0,-30.000000000000007,-2.066666666666667
+['tinospora cordifolia'],['elettaria cardamomum'],7.0,5.0,4.0,0.5714285714285714,0.11428571428571428,-31.0,-9.333333333333332,-4.428571428571429

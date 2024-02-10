@@ -1,0 +1,11 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+['syzygium aromaticum'],['elettaria cardamomum'],8.0,6.0,6.0,0.75,0.125,-42.0,-20.0,0.0
+['elettaria cardamomum'],['syzygium aromaticum'],6.0,8.0,6.0,1.0,0.125,-42.0,inf,-3.5
+"['triphala', 'trikatu']",['terminalia bellirica'],8.0,9.0,7.0,0.875,0.09722222222222222,-65.0,-64.0,-4.0625
+['terminalia bellirica'],"['triphala', 'trikatu']",9.0,8.0,7.0,0.7777777777777778,0.09722222222222222,-65.0,-31.5,-7.222222222222222
+['triphala'],['terminalia bellirica'],14.0,9.0,8.0,0.5714285714285714,0.06349206349206349,-118.0,-18.666666666666664,-8.428571428571429
+['terminalia bellirica'],['triphala'],9.0,14.0,8.0,0.8888888888888888,0.06349206349206349,-118.0,-116.99999999999994,-2.185185185185185
+"['trikatu', 'terminalia bellirica']",['triphala'],8.0,14.0,7.0,0.875,0.0625,-105.0,-104.0,-1.875
+['triphala'],"['trikatu', 'terminalia bellirica']",14.0,8.0,7.0,0.5,0.0625,-105.0,-14.0,-7.5
+['terminalia bellirica'],['trikatu'],9.0,18.0,8.0,0.8888888888888888,0.04938271604938271,-154.0,-152.99999999999994,-1.711111111111111
+"['triphala', 'terminalia bellirica']",['trikatu'],8.0,18.0,7.0,0.875,0.04861111111111111,-137.0,-136.0,-1.5568181818181819
